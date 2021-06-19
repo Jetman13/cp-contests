@@ -1,0 +1,38 @@
+{
+  "name" : "B. Ordinary Numbers",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "6\n1\n2\n3\n4\n5\n100\n",
+    "output" : "1\n2\n3\n4\n5\n18\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "1\n1000000000",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.BOrdinaryNumbers",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.05.05",
+  "contestName" : "Codeforces - Codeforces Round #719 (Div. 3)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

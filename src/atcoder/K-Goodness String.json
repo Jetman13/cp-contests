@@ -1,0 +1,34 @@
+{
+  "name" : "K-Goodness String",
+  "testType" : "MULTI_NUMBER",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "2\n5 1\nABCAA\n4 2\nABAA\n",
+    "output" : "Case #1: 0\nCase #2: 1\n",
+    "index" : 0,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Solution",
+  "taskClass" : "atcoder.KGoodnessString",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.03.21",
+  "contestName" : "Google Coding Competitions - Round A 2021 - Kick Start 2021",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

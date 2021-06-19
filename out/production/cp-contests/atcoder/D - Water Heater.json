@@ -1,0 +1,44 @@
+{
+  "name" : "D - Water Heater",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "4 10\n1 3 5\n2 4 4\n3 10 6\n2 4 1\n",
+    "output" : "No\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "4 10\n1 3 5\n2 4 4\n3 10 6\n2 3 1\n",
+    "output" : "Yes\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "6 1000000000\n0 200000 999999999\n2 20 1\n20 200 1\n200 2000 1\n2000 20000 1\n20000 200000 1\n",
+    "output" : "Yes\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Main",
+  "taskClass" : "atcoder.DWaterHeater",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2020.11.15",
+  "contestName" : "AtCoder - AtCoder Beginner Contest 183",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

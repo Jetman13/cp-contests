@@ -1,0 +1,39 @@
+{
+  "name" : "F1. Guess the K-th Zero (Easy version)",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "6 1\n2\n\n2\n\n1\n\n1\n\n0\n\n0\n",
+    "output" : "? 4 6\n\n? 1 1\n\n? 1 2\n\n? 2 2\n\n? 5 5\n\n! 5\n",
+    "index" : 0,
+    "active" : false
+  }, {
+    "input" : "",
+    "output" : "",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.F1GuessTheKThZeroEasyVersion",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.05.05",
+  "contestName" : "Codeforces - Codeforces Round #719 (Div. 3)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : true,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

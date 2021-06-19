@@ -1,0 +1,51 @@
+{
+  "name" : "TheQuestForGold",
+  "signature" : {
+    "name" : "explore",
+    "result" : "String",
+    "arguments" : [ "String[]" ],
+    "argumentNames" : [ "cave" ]
+  },
+  "tests" : [ {
+    "arguments" : [ "S....ф.....ф...T.ф....." ],
+    "result" : "gold",
+    "index" : 0,
+    "active" : true
+  }, {
+    "arguments" : [ "S....ф...P.ф..PTPф...P." ],
+    "result" : "no gold",
+    "index" : 1,
+    "active" : true
+  }, {
+    "arguments" : [ "S....ф..P.Pф.P.T.ф....." ],
+    "result" : "no gold",
+    "index" : 2,
+    "active" : true
+  }, {
+    "arguments" : [ "S....фP....ф...T.ф....." ],
+    "result" : "no gold",
+    "index" : 3,
+    "active" : true
+  }, {
+    "arguments" : [ "S....ф.....фPPP..ф.....ф.....ф.....ф..PPPф..T.." ],
+    "result" : "gold",
+    "index" : 4,
+    "active" : true
+  }, {
+    "arguments" : [ ".......ф.......ф..P.P..ф..PPP..ф..P.P..ф.......ф..S...." ],
+    "result" : "no gold",
+    "index" : 5,
+    "active" : true
+  }, {
+    "arguments" : [ ".......ф.......ф..P.P..ф..PTP..ф..P.P..ф.......ф..S...." ],
+    "result" : "no gold",
+    "index" : 6,
+    "active" : true
+  } ],
+  "date" : "2021.03.19",
+  "contestName" : "Single Round Match 802",
+  "testClasses" : [ ],
+  "fqn" : "codeforces.TheQuestForGold",
+  "failOnOverflow" : false,
+  "memoryLimit" : "256M"
+}

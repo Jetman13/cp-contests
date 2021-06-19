@@ -1,0 +1,54 @@
+{
+  "name" : "D - Send More Money",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "a\nb\nc\n",
+    "output" : "1\n2\n3\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "x\nx\ny\n",
+    "output" : "1\n1\n2\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "p\nq\np\n",
+    "output" : "UNSOLVABLE\n",
+    "index" : 2,
+    "active" : true
+  }, {
+    "input" : "abcd\nefgh\nijkl\n",
+    "output" : "UNSOLVABLE\n",
+    "index" : 3,
+    "active" : true
+  }, {
+    "input" : "send\nmore\nmoney\n",
+    "output" : "9567\n1085\n10652\n",
+    "index" : 4,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Main",
+  "taskClass" : "atcoder.DSendMoreMoney",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.04.11",
+  "contestName" : "AtCoder - AtCoder Beginner Contest 198",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

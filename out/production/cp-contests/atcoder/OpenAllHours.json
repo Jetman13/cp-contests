@@ -1,0 +1,61 @@
+{
+  "name" : "OpenAllHours",
+  "signature" : {
+    "name" : "verify",
+    "result" : "String",
+    "arguments" : [ "int", "String[]", "String[]" ],
+    "argumentNames" : [ "N", "openingTime", "closingTime" ]
+  },
+  "tests" : [ {
+    "arguments" : [ "2", "04:47ф16:47", "16:47ф04:47" ],
+    "result" : "correct",
+    "index" : 0,
+    "active" : true
+  }, {
+    "arguments" : [ "3", "03:00ф18:30ф08:59", "09:00ф04:15ф19:01" ],
+    "result" : "correct",
+    "index" : 1,
+    "active" : true
+  }, {
+    "arguments" : [ "3", "03:47ф03:48ф03:49", "03:44ф03:45ф03:46" ],
+    "result" : "incorrect",
+    "index" : 2,
+    "active" : true
+  }, {
+    "arguments" : [ "1", "05:00", "04:59" ],
+    "result" : "incorrect",
+    "index" : 3,
+    "active" : true
+  }, {
+    "arguments" : [ "6", "01:08ф12:46ф23:28ф20:30ф19:02ф06:41", "05:56ф18:53ф02:29ф23:26ф23:57ф08:44" ],
+    "result" : "incorrect",
+    "index" : 4,
+    "active" : true
+  }, {
+    "arguments" : [ "7", "01:12ф11:23ф12:23ф13:05ф18:26ф08:37ф22:08", "03:21ф13:04ф22:16ф21:46ф08:19ф10:17ф13:01" ],
+    "result" : "correct",
+    "index" : 5,
+    "active" : true
+  }, {
+    "arguments" : [ "1", "04:47", "04:47" ],
+    "result" : "correct",
+    "index" : 6,
+    "active" : true
+  }, {
+    "arguments" : [ "1", "00:00", "23:59" ],
+    "result" : "incorrect",
+    "index" : 7,
+    "active" : true
+  }, {
+    "arguments" : [ "2", "12:00ф00:00", "23:59ф12:00" ],
+    "result" : "incorrect",
+    "index" : 8,
+    "active" : true
+  } ],
+  "date" : "2020.10.23",
+  "contestName" : "Single Round Match 792",
+  "testClasses" : [ ],
+  "fqn" : "atcoder.OpenAllHours",
+  "failOnOverflow" : false,
+  "memoryLimit" : "256M"
+}

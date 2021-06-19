@@ -1,0 +1,34 @@
+{
+  "name" : "Alan%%%",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "5\n%alan%%\n%Alan%%%\ncdqwsq%% A l a n%%\n%AC lan%%\n%Alan%%%\n",
+    "output" : "12\n",
+    "index" : 0,
+    "active" : true
+  } ],
+  "location" : "src/nowcoder",
+  "vmArgs" : "-Xmx524288M",
+  "mainClass" : "Main",
+  "taskClass" : "nowcoder.Alan",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.01.23",
+  "contestName" : "NowCoder",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

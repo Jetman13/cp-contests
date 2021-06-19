@@ -1,0 +1,59 @@
+{
+  "name" : "B. Rabbit Game",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "4\n1 2 3 4\n",
+    "output" : "4\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "5\n1 3 2 3 1\n",
+    "output" : "4\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "9\n1 1 2 1 9 2 1 1 2\n",
+    "output" : "4\n",
+    "index" : 2,
+    "active" : true
+  }, {
+    "input" : "7\n1 3 5 4 4 3 2\n",
+    "output" : "7\n",
+    "index" : 3,
+    "active" : true
+  }, {
+    "input" : "5\n2 2 2 2 2\n",
+    "output" : "5\n",
+    "index" : 4,
+    "active" : true
+  }, {
+    "input" : "1\n1",
+    "output" : "1",
+    "index" : 5,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.BRabbitGame",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2020.11.25",
+  "contestName" : "Codeforces - Unofficial Div 4 Round #2 by ssense  SlavicG",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

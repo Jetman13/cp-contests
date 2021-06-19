@@ -1,0 +1,39 @@
+{
+  "name" : "C. Bouncing Ball",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "3\n10 3 2\n0101010101\n2 2\n5 4 1\n00000\n2 10\n11 2 3\n10110011000\n4 3\n",
+    "output" : "2\n4\n10\n",
+    "index" : 0,
+    "active" : false
+  }, {
+    "input" : "1\n2 2 1\n00\n2 10",
+    "output" : "2",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.CBouncingBall",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2020.11.29",
+  "contestName" : "Codeforces - Codeforces Round #687 (Div. 2, based on Technocup 2021 Elimination Round 2)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

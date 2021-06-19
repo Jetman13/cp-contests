@@ -1,0 +1,34 @@
+{
+  "name" : "F. The Treasure of The Segments",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "4\n3\n1 4\n2 3\n3 6\n4\n1 2\n2 3\n3 5\n4 5\n5\n1 2\n3 8\n4 5\n6 7\n9 10\n5\n1 5\n2 4\n3 5\n3 8\n4 8\n",
+    "output" : "0\n1\n2\n0\n",
+    "index" : 0,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.FTheTreasureOfTheSegments",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2020.12.17",
+  "contestName" : "Codeforces - Codeforces Round #690 (Div. 3)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

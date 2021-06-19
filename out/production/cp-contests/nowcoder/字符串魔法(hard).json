@@ -1,0 +1,34 @@
+{
+  "name" : "字符串魔法(hard)",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "6\nAABBAA\n",
+    "output" : "6\n",
+    "index" : 0,
+    "active" : true
+  } ],
+  "location" : "src/nowcoder",
+  "vmArgs" : "-Xmx262144M",
+  "mainClass" : "Main",
+  "taskClass" : "nowcoder.Hard",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2020.12.05",
+  "contestName" : "NowCoder",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

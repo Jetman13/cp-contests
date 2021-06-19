@@ -1,0 +1,39 @@
+{
+  "name" : "D - aab aba baa",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "2 2 4\n",
+    "output" : "baab\n",
+    "index" : 0,
+    "active" : false
+  }, {
+    "input" : "30 30 118264581564861424\n",
+    "output" : "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Main",
+  "taskClass" : "atcoder.DAabAbaBaa",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.05.22",
+  "contestName" : "AtCoder - AISing Programming Contest 2021（AtCoder Beginner Contest 202）",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

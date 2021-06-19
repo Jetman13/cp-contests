@@ -1,0 +1,44 @@
+{
+  "name" : "E - Third Avenue",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "2 5\nS.b.b\na.a.G\n",
+    "output" : "4\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "11 11\nS##...#c...\n...#d.#.#..\n..........#\n.#....#...#\n#.....bc...\n#.##......#\n.......c..#\n..#........\na..........\nd..#...a...\n.#........G\n",
+    "output" : "14\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "11 11\n.#.#.e#a...\n.b..##..#..\n#....#.#..#\n.#dd..#..#.\n....#...#e.\nc#.#a....#.\n.....#..#.e\n.#....#b.#.\n.#...#..#..\n......#c#G.\n#..S...#...\n",
+    "output" : "-1\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Main",
+  "taskClass" : "atcoder.EThirdAvenue",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2020.11.22",
+  "contestName" : "AtCoder - AtCoder Beginner Contest 184",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

@@ -1,0 +1,48 @@
+{
+  "name" : "D - Snuke Prime",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "2 6\n1 2 4\n2 2 4\n",
+    "output" : "10\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "5 1000000000\n583563238 820642330 44577\n136809000 653199778 90962\n54601291 785892285 50554\n5797762 453599267 65697\n468677897 916692569 87409\n",
+    "output" : "163089627821228\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "5 100000\n583563238 820642330 44577\n136809000 653199778 90962\n54601291 785892285 50554\n5797762 453599267 65697\n468677897 916692569 87409\n",
+    "output" : "88206004785464\n",
+    "index" : 2,
+    "active" : true
+  }, {
+    "input" : "1 3\n1 1 2",
+    "index" : 3,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Main",
+  "taskClass" : "atcoder.DSnukePrime",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.01.10",
+  "contestName" : "AtCoder - AtCoder Beginner Contest 188",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

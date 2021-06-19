@@ -1,0 +1,44 @@
+{
+  "name" : "J. Junior Prom",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "15 4\n3\nDani Riri Vern\n3\nDani Nate Chri\n4\nLuis Mark Rap Riri\n5\nCis Fran Kev Kyle Vern\n",
+    "output" : "YES\nSunday\nSaturday\nSaturday\nSaturday\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "16 5\n3\nDani Joe JV\n3\nJV Lanc Lzro\n3\nEarl Nico Treb\n3\nAcad Joe Nico\n3\nEarl Karl Lzro\n",
+    "output" : "NO\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "4 1\n4\naa bb cc dd\n1\naa\n2\nee gg\n1\nee\n1\n",
+    "output" : "YES\nSaturday",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.JJuniorProm",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.01.09",
+  "contestName" : "Codeforces - 2021 Ateneo de Manila Senior High School Dagitab Programming Contest (Mirror)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

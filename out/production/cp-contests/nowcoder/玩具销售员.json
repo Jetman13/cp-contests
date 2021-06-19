@@ -1,0 +1,44 @@
+{
+  "name" : "玩具销售员",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "3 3 1\n",
+    "output" : "No\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "一共3个玩具，全部是次品。达达利亚无论怎么挑选都无法在一次检查中成功挑完所有次品\n",
+    "output" : "5 3 2\n",
+    "index" : 1,
+    "active" : false
+  }, {
+    "input" : "5 3 2",
+    "output" : "Yes",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/nowcoder",
+  "vmArgs" : "-Xmx524288M",
+  "mainClass" : "Main",
+  "taskClass" : "nowcoder.Task",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2020.11.21",
+  "contestName" : "NowCoder",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

@@ -1,0 +1,44 @@
+{
+  "name" : "D - Happy Birthday! 2",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "5\n180 186 189 191 218\n",
+    "output" : "Yes\n1 1\n2 3 4\n",
+    "index" : 0,
+    "active" : false
+  }, {
+    "input" : "2\n123 523\n",
+    "output" : "Yes\n1 1\n1 2\n",
+    "index" : 1,
+    "active" : false
+  }, {
+    "input" : "6\n2013 1012 2765 2021 508 6971\n",
+    "output" : "No\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Main",
+  "taskClass" : "atcoder.DHappyBirthday2",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.05.08",
+  "contestName" : "AtCoder - KYOCERA Programming Contest 2021（AtCoder Beginner Contest 200）",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

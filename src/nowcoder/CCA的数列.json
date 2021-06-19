@@ -1,0 +1,44 @@
+{
+  "name" : "CCA的数列",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "5\n1 2 3 4 5\n",
+    "output" : "YES\n",
+    "index" : 0,
+    "active" : false
+  }, {
+    "input" : "此数列为等差数列。\n",
+    "output" : "\n",
+    "index" : 1,
+    "active" : false
+  }, {
+    "input" : "3\n5 7 16",
+    "output" : "YES\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/nowcoder",
+  "vmArgs" : "-Xmx524288M",
+  "mainClass" : "Main",
+  "taskClass" : "nowcoder.CCA",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2020.12.20",
+  "contestName" : "NowCoder",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

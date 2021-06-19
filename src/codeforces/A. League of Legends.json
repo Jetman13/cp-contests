@@ -1,0 +1,39 @@
+{
+  "name" : "A. League of Legends",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "1 1 2 3 4\n2 4 1 5 3\n",
+    "output" : "Red\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "2 3 4 5 6\n1 2 3 4 5\n",
+    "output" : "Blue\n",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx512M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.ALeagueOfLegends",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.04.21",
+  "contestName" : "Codeforces - The 18th Zhejiang Provincial Collegiate Programming Contest",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

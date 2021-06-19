@@ -1,0 +1,34 @@
+{
+  "name" : "Hamster and Equation",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "\n3\n1 1\n1 2\n1 3\n",
+    "output" : "\n33\n20\n16\n",
+    "index" : 0,
+    "active" : true
+  } ],
+  "location" : "src/nowcoder",
+  "vmArgs" : "-Xmx524288M",
+  "mainClass" : "Main",
+  "taskClass" : "nowcoder.HamsterAndEquation",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.05.05",
+  "contestName" : "NowCoder",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

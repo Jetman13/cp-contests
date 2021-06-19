@@ -1,0 +1,44 @@
+{
+  "name" : "A - Discount",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "100 80\n",
+    "output" : "20.0\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "7 6\n",
+    "output" : "14.285714285714285714\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "99999 99998\n",
+    "output" : "0.00100001000010000100\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Main",
+  "taskClass" : "atcoder.ADiscount",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.02.27",
+  "contestName" : "AtCoder - Caddi Programming Contest 2021(AtCoder Beginner Contest 193)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

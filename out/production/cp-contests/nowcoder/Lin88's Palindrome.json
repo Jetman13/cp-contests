@@ -1,0 +1,38 @@
+{
+  "name" : "Lin88's Palindrome",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "abc\n3\n1 c\n2 c\n3 b\n",
+    "output" : "Yes\nYes\nNo\n",
+    "index" : 0,
+    "active" : false
+  }, {
+    "input" : "ababababa\n4\n2 b\n3 b\n3 a\n1 a\n",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/nowcoder",
+  "vmArgs" : "-Xmx2097152M",
+  "mainClass" : "Main",
+  "taskClass" : "nowcoder.Lin88sPalindrome",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.04.17",
+  "contestName" : "NowCoder",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

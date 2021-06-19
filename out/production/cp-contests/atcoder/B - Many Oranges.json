@@ -1,0 +1,44 @@
+{
+  "name" : "B - Many Oranges",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "100 200 2\n",
+    "output" : "10 20\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "120 150 2\n",
+    "output" : "14 16\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "300 333 1\n",
+    "output" : "UNSATISFIABLE\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Main",
+  "taskClass" : "atcoder.BManyOranges",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.03.13",
+  "contestName" : "AtCoder - Panasonic Programming Contest (AtCoder Beginner Contest 195)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

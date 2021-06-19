@@ -1,0 +1,44 @@
+{
+  "name" : "D. Maximum Sum of Products",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "5\n2 3 2 1 3\n1 3 2 4 2\n",
+    "output" : "29\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "2\n13 37\n2 4\n",
+    "output" : "174\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "6\n1 8 7 6 3 6\n5 9 6 8 8 6\n",
+    "output" : "235\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.DMaximumSumOfProducts",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.05.05",
+  "contestName" : "Codeforces - Educational Codeforces Round 108 (Rated for Div. 2)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

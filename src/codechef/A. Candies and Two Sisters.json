@@ -1,0 +1,34 @@
+{
+  "name" : "A. Candies and Two Sisters",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "6\n7\n1\n2\n3\n2000000000\n763243547\n",
+    "output" : "3\n0\n0\n1\n999999999\n381621773\n",
+    "index" : 0,
+    "active" : true
+  } ],
+  "location" : "src/codechef",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codechef.ACandiesAndTwoSisters",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2020.11.04",
+  "contestName" : "Codeforces - Codeforces Round #634 (Div. 3)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

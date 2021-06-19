@@ -1,0 +1,44 @@
+{
+  "name" : "C - Friends and Travel costs",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "2 3\n2 1\n5 10\n",
+    "output" : "4\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "5 1000000000\n1 1000000000\n2 1000000000\n3 1000000000\n4 1000000000\n5 1000000000\n",
+    "output" : "6000000000\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "3 2\n5 5\n2 1\n2 2\n",
+    "output" : "10\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Main",
+  "taskClass" : "atcoder.CFriendsAndTravelCosts",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.05.30",
+  "contestName" : "AtCoder - AtCoder Beginner Contest 203（Sponsored by Panasonic）",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

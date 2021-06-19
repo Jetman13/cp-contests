@@ -1,0 +1,37 @@
+{
+  "name" : "第 k 小",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "5 7 10\n1 2 3 4 5\n2\n1 1\n1 3\n1 1\n1 2\n2\n2\n",
+    "index" : 0,
+    "active" : false
+  }, {
+    "input" : "1 8 2\n10\n1 9\n2\n1 8\n2\n1 7\n2\n1 6\n2",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/nowcoder",
+  "vmArgs" : "-Xmx524288M",
+  "mainClass" : "Main",
+  "taskClass" : "nowcoder.K",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2020.12.05",
+  "contestName" : "NowCoder",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

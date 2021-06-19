@@ -1,0 +1,39 @@
+{
+  "name" : "F. Offer",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "3\n8 5\n1 3 2 2 2 3 1 3\n8 6\n1 1 2 2 2 3 3 3\n5 5\n1 1 2 3 3\n",
+    "output" : "5\n8\n3\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "1\n8 6\n1 1 2 2 2 3 3 3",
+    "output" : "8",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.FOffer",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.01.27",
+  "contestName" : "Codeforces - Noobs Round #2 (Div. 4) by Rudro25",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

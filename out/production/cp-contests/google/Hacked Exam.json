@@ -1,0 +1,39 @@
+{
+  "name" : "Hacked Exam",
+  "testType" : "MULTI_NUMBER",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "4\n1 3\nFFT 3\n1 3\nFFT 2\n2 6\nFFTTTF 2\nFTFTFT 4\n2 2\nFF 1\nTT 1\n",
+    "output" : "Case #1: FFT 3/1\nCase #2: FFT 2/1\nCase #3: FTFFFT 4/1\nCase #4: TF 1/1\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "1\n3 120\nFFTFFFTFFFTTTTTTTFTFFFFFFTTTFTFFFTFTFFTTFTFFTFFTTTFTFTFFTFTFTTFFFFTFTFFFFTTTFTTFTTTTFFFTTFFFFFTTFFTFFTFFTTTFFFFTTFFTFTTF 55\nFFFTFFTTFFFFTFTFFTFFFTTTTTTFFFTTTFTTTTFFTFTTTFTTFFTTTFTFFFFTFFTTFFTTFTTFFTFTFFTFTTFTFTFFTTTFFTFTFTTFFTFTFTFTTFFTFFFTFTFT 62\nFFFTFTTFFFFFTFTFTTTTTTFFTTFTFFFTFFTTTTTTFFFTTTFFFTTFTFFFFFFTFTTFFTFTTTFTTTTFTTFFFFTFFTTFTFFTTTTTTFTFFFFFTTFFTFTFTFFTTTTT 64\n",
+    "output" : "Case #1: FFFTFTTTFFFFTFTFFTFTTTTTTTFFFFTTTFTTTTFFTFTTTTTFFFTFTFTFFFFTFFTTFTFTFTTTTTFFTFFFFFFFFTTFTTTTTTFTTTTFFFFTFTFTTFTFFFFTTTFT 189154508532118369075350624633/2901503505434414233388602018\n",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/google",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Solution",
+  "taskClass" : "google.HackedExam",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.04.10",
+  "contestName" : "Google Coding Competitions - Round 1A 2021 - Code Jam 2021",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

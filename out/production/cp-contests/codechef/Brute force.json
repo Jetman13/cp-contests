@@ -1,0 +1,44 @@
+{
+  "name" : "Brute force",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "",
+    "output" : "",
+    "index" : 0,
+    "active" : false
+  }, {
+    "input" : "1\n5\n0 1 2 3 4 5\n",
+    "output" : "2",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "",
+    "output" : "",
+    "index" : 2,
+    "active" : false
+  } ],
+  "location" : "src/codechef",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codechef.BruteForce",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2020.11.05",
+  "contestName" : "CodeChef - Educational Competitive Programming Contest (ECPC 1.0)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

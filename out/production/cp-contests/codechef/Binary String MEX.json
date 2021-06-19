@@ -1,0 +1,38 @@
+{
+  "name" : "Binary String MEX",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "2\n1001011\n1111\n",
+    "output" : "1100\n0\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "7\n110000\n101010101010\n10000000\n111110\n101101100\n000001\n11100011",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/codechef",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codechef.BinaryStringMEX",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.04.07",
+  "contestName" : "CodeChef - April Challenge 2021 Division 2",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

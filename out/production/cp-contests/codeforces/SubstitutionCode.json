@@ -1,0 +1,31 @@
+{
+  "name" : "SubstitutionCode",
+  "signature" : {
+    "name" : "getValue",
+    "result" : "int",
+    "arguments" : [ "String", "String" ],
+    "argumentNames" : [ "key", "code" ]
+  },
+  "tests" : [ {
+    "arguments" : [ "TRADINGFEW", "LGXWEV" ],
+    "result" : "709",
+    "index" : 0,
+    "active" : true
+  }, {
+    "arguments" : [ "ABCDEFGHIJ", "XJ" ],
+    "result" : "0",
+    "index" : 1,
+    "active" : true
+  }, {
+    "arguments" : [ "CRYSTALBUM", "MMA" ],
+    "result" : "6",
+    "index" : 2,
+    "active" : true
+  } ],
+  "date" : "2020.10.11",
+  "contestName" : "TopCoder SRM #257",
+  "testClasses" : [ ],
+  "fqn" : "codeforces.SubstitutionCode",
+  "failOnOverflow" : false,
+  "memoryLimit" : "64M"
+}

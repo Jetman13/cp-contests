@@ -1,0 +1,44 @@
+{
+  "name" : "I. Implementation Problem",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "4 5\nACD..\nB#...\n.E#..\n#....\nS\n",
+    "output" : ".C...\nA#D..\nB.#..\n#E...\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "4 5\nACD..\nB#...\n.E#..\n#....\nSE\n",
+    "output" : "....C\nA#..D\n.B#..\n#...E\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "5 3\nAAA\nBBB\nCCC\n124\n...\nS\n",
+    "output" : "...\n...\n...\nA01\nBA.\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.IImplementationProblem",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.01.30",
+  "contestName" : "Codeforces - 2021 Ateneo de Manila Senior High School Dagitab Programming Contest (Mirror)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

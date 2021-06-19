@@ -1,0 +1,39 @@
+{
+  "name" : "B. RBS Deletion",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "3\n12 2\n(()())((()))\n6 3\n()()()\n8 1\n(((())))\n",
+    "output" : "4\n3\n2\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "1\n8 2\n(()())()",
+    "output" : "4",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx512M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.BRBSDeletion",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.03.09",
+  "contestName" : "Codeforces - Kotlin Heroes: Episode 6",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

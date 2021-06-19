@@ -1,0 +1,31 @@
+{
+  "name" : "AlicesBirthday",
+  "signature" : {
+    "name" : "partition",
+    "result" : "int[]",
+    "arguments" : [ "int" ],
+    "argumentNames" : [ "k" ]
+  },
+  "tests" : [ {
+    "arguments" : [ "3" ],
+    "result" : "3",
+    "index" : 0,
+    "active" : true
+  }, {
+    "arguments" : [ "5" ],
+    "result" : "5 1",
+    "index" : 1,
+    "active" : true
+  }, {
+    "arguments" : [ "1" ],
+    "result" : "-1",
+    "index" : 2,
+    "active" : true
+  } ],
+  "date" : "2020.10.11",
+  "contestName" : "TopCoder SRM #790",
+  "testClasses" : [ ],
+  "fqn" : "codeforces.AlicesBirthday",
+  "failOnOverflow" : false,
+  "memoryLimit" : "256M"
+}

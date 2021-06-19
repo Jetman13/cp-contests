@@ -1,0 +1,39 @@
+{
+  "name" : "B. Berland Crossword",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "4\n5 2 5 3 1\n3 0 0 0 0\n4 4 1 4 0\n2 1 1 1 1\n",
+    "output" : "YES\nYES\nNO\nYES\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "1\n2 2 1 1 1",
+    "output" : "YES",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.BBerlandCrossword",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.03.02",
+  "contestName" : "Codeforces - Educational Codeforces Round 105 (Rated for Div. 2)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

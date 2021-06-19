@@ -1,0 +1,54 @@
+{
+  "name" : "CCA的字符串",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "NowCoderNowCode\n",
+    "output" : "8\n",
+    "index" : 0,
+    "active" : false
+  }, {
+    "input" : "NowCoder",
+    "output" : "1",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "NowCoderNowCoder",
+    "output" : "17",
+    "index" : 2,
+    "active" : false
+  }, {
+    "input" : "NowaCNodwerCoder",
+    "output" : "6",
+    "index" : 3,
+    "active" : false
+  }, {
+    "input" : "NowcoderCoder",
+    "output" : "1",
+    "index" : 4,
+    "active" : true
+  } ],
+  "location" : "src/nowcoder",
+  "vmArgs" : "-Xmx524288M",
+  "mainClass" : "Main",
+  "taskClass" : "nowcoder.CCA",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2020.12.20",
+  "contestName" : "NowCoder",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

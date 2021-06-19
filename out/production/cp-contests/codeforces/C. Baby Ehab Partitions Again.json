@@ -1,0 +1,49 @@
+{
+  "name" : "C. Baby Ehab Partitions Again",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "4\n6 3 9 12\n",
+    "output" : "1\n2\n",
+    "index" : 0,
+    "active" : false
+  }, {
+    "input" : "2\n1 2\n",
+    "output" : "0\n",
+    "index" : 1,
+    "active" : false
+  }, {
+    "input" : "100\n38 631 215 1062 1299 659 720 1441 298 1272 1732 604 671 178 318 1615 1305 17 721 818 213 1370 1523 422 689 1079 829 1580 1618 850 1916 1867 1343 1118 659 446 547 1518 215 1348 943 1756 529 1343 1317 804 1376 405 1246 230 1268 98 389 503 916 500 42 496 1785 1630 609 318 1649 1445 1520 224 1565 1606 708 685 1315 1678 716 459 1932 1744 780 1721 919 1555 1724 550 165 513 311 615 1339 1690 333 1061 1651 863 1425 860 1979 1031 523 286 484 621",
+    "output" : "1\n2",
+    "index" : 2,
+    "active" : true
+  }, {
+    "input" : "10\n1135 1617 1889 1863 1447 905 505 561 1800 514",
+    "output" : "0",
+    "index" : 3,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.CBabyEhabPartitionsAgain",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.05.01",
+  "contestName" : "Codeforces - Codeforces Round #717 (Div. 2)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

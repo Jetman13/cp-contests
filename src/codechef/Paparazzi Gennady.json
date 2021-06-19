@@ -1,0 +1,39 @@
+{
+  "name" : "Paparazzi Gennady",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "4\n2\n1 2\n3\n1 2 3\n7\n3 2 5 3 2 4 3\n8\n1 2 4 3 5 4 2 1\n",
+    "output" : "1\n2\n3\n2\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "1\n7\n3 2 5 3 2 4 3",
+    "output" : "3",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/codechef",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codechef.PaparazziGennady",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.03.06",
+  "contestName" : "CodeChef - March Challenge 2021 Division 2",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

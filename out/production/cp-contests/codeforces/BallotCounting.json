@@ -1,0 +1,46 @@
+{
+  "name" : "BallotCounting",
+  "signature" : {
+    "name" : "count",
+    "result" : "int",
+    "arguments" : [ "String" ],
+    "argumentNames" : [ "votes" ]
+  },
+  "tests" : [ {
+    "arguments" : [ "AAAAABBBBB" ],
+    "result" : "10",
+    "index" : 0,
+    "active" : true
+  }, {
+    "arguments" : [ "AAAAABBBBA" ],
+    "result" : "10",
+    "index" : 1,
+    "active" : true
+  }, {
+    "arguments" : [ "AAAAA" ],
+    "result" : "3",
+    "index" : 2,
+    "active" : true
+  }, {
+    "arguments" : [ "AAAAAA" ],
+    "result" : "4",
+    "index" : 3,
+    "active" : true
+  }, {
+    "arguments" : [ "AABAABAAB" ],
+    "result" : "7",
+    "index" : 4,
+    "active" : true
+  }, {
+    "arguments" : [ "BABABBB" ],
+    "result" : "6",
+    "index" : 5,
+    "active" : true
+  } ],
+  "date" : "2021.03.19",
+  "contestName" : "Single Round Match 802",
+  "testClasses" : [ ],
+  "fqn" : "codeforces.BallotCounting",
+  "failOnOverflow" : false,
+  "memoryLimit" : "256M"
+}

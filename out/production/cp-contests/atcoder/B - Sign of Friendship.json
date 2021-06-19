@@ -1,0 +1,44 @@
+{
+  "name" : "B - Sign of Friendship",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "1 10 10\n3 5\n",
+    "output" : "2.857142857142857\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "1 10 10\n3 2\n",
+    "output" : "0.0\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "5 896 483\n228 59\n529 310\n339 60\n78 266\n659 391\n",
+    "output" : "245.3080684596577\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Main",
+  "taskClass" : "atcoder.BSignOfFriendship",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.05.01",
+  "contestName" : "AtCoder - ZONe Energy Programming Contest",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

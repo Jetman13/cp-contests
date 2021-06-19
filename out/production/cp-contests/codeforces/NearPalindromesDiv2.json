@@ -1,0 +1,51 @@
+{
+  "name" : "NearPalindromesDiv2",
+  "signature" : {
+    "name" : "solve",
+    "result" : "String",
+    "arguments" : [ "String" ],
+    "argumentNames" : [ "S" ]
+  },
+  "tests" : [ {
+    "arguments" : [ "eerdrd" ],
+    "result" : "eerdrd",
+    "index" : 0,
+    "active" : true
+  }, {
+    "arguments" : [ "abcdhgfe" ],
+    "result" : "aacceffe",
+    "index" : 1,
+    "active" : true
+  }, {
+    "arguments" : [ "topcoder" ],
+    "result" : "codcodee",
+    "index" : 2,
+    "active" : true
+  }, {
+    "arguments" : [ "aaabbbaa" ],
+    "result" : "aaaabbaa",
+    "index" : 3,
+    "active" : true
+  }, {
+    "arguments" : [ "aa" ],
+    "result" : "aa",
+    "index" : 4,
+    "active" : true
+  }, {
+    "arguments" : [ "ba" ],
+    "result" : "aa",
+    "index" : 5,
+    "active" : true
+  }, {
+    "arguments" : [ "bb" ],
+    "result" : "bb",
+    "index" : 6,
+    "active" : true
+  } ],
+  "date" : "2020.10.23",
+  "contestName" : "TopCoder SRM #791",
+  "testClasses" : [ ],
+  "fqn" : "codeforces.NearPalindromesDiv2",
+  "failOnOverflow" : false,
+  "memoryLimit" : "256M"
+}

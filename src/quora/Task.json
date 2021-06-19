@@ -1,0 +1,39 @@
+{
+  "name" : "Task",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "8 6\n4 2 3 2 4 7 6 5\n1 3\n1 2\n2 3 8\n1 5\n3 5 7 1\n1 8",
+    "output" : "3\n1\n2\n5",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "4\n1 1\n6 6\n3 3 \n4 4\n",
+    "output" : "2",
+    "index" : 1,
+    "active" : false
+  } ],
+  "location" : "src/quora",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "quora.Task",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.02.07",
+  "contestName" : "CodeChef - February Challenge 2021 Division 2",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

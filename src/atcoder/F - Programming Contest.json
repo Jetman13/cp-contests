@@ -1,0 +1,48 @@
+{
+  "name" : "F - Programming Contest",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "40 1000000000\n1 10 100 500 1000 2000 5000 10000 50000 90000\n10 100 1000 5000 10000 20000 50000 100000 500000 900000\n100 1000 10000 50000 100000 200000 500000 1000000 5000000 900009900\n1012 10000 100000 500000 1000000 2000000 5000000 10000000 50000000 900000000\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "6 100\n1 2 7 5 8 10\n",
+    "output" : "33\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "6 100\n101 102 103 104 105 106\n",
+    "output" : "0\n",
+    "index" : 2,
+    "active" : true
+  }, {
+    "input" : "7 273599681\n6706927 91566569 89131517 71069699 75200339 98298649 92857057\n",
+    "output" : "273555143\n",
+    "index" : 3,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Main",
+  "taskClass" : "atcoder.FProgrammingContest",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2020.11.22",
+  "contestName" : "AtCoder - AtCoder Beginner Contest 184",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

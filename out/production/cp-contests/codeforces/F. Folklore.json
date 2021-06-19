@@ -1,0 +1,39 @@
+{
+  "name" : "F. Folklore",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "4 1\naugust cardigan exile ricochet\n",
+    "output" : "YES\nricochet exile cardigan august\n",
+    "index" : 0,
+    "active" : false
+  }, {
+    "input" : "6 2\nLoveStory OurSong TrdrpsGtar Enchanted Fifteen UBelongWMe\n",
+    "output" : "YES\nFifteen Enchanted LoveStory UBelongWMe TrdrpsGtar OurSong\n",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.FFolklore",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.01.06",
+  "contestName" : "Codeforces - 2021 Ateneo de Manila Senior High School Dagitab Programming Contest (Mirror)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

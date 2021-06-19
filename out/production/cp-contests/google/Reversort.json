@@ -1,0 +1,34 @@
+{
+  "name" : "Reversort",
+  "testType" : "MULTI_NUMBER",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "4\n4\n4 2 1 3\n2\n1 2\n7\n7 6 5 4 3 2 1\n1\n2\n",
+    "output" : "Case #1: 6\nCase #2: 1\nCase #3: 12\nCase #4: 1\n",
+    "index" : 0,
+    "active" : true
+  } ],
+  "location" : "src/google",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Solution",
+  "taskClass" : "google.Reversort",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.03.26",
+  "contestName" : "Google Coding Competitions - Qualification Round 2021 - Code Jam 2021",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

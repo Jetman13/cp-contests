@@ -1,0 +1,38 @@
+{
+  "name" : "D. Zookeeper and The Infinite Zoo",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "5\n1 4\n3 6\n1 6\n6 2\n5 5\n",
+    "output" : "YES\nYES\nNO\nNO\nYES\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "1\n1 6",
+    "index" : 1,
+    "active" : false
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.DZookeeperAndTheInfiniteZoo",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.02.28",
+  "contestName" : "Codeforces - Codeforces Global Round 13",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

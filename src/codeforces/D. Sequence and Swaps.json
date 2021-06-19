@@ -1,0 +1,39 @@
+{
+  "name" : "D. Sequence and Swaps",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "6\n4 1\n2 3 5 4\n5 6\n1 1 3 4 4\n1 10\n2\n2 10\n11 9\n2 10\n12 11\n5 18\n81 324 218 413 324\n",
+    "output" : "3\n0\n0\n-1\n1\n3\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "1\n6 0\n2 3 4 1 6 5",
+    "output" : "-1",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx512M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.DSequenceAndSwaps",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2020.11.30",
+  "contestName" : "Codeforces - Educational Codeforces Round 99 (Rated for Div. 2)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

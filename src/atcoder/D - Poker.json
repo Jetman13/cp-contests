@@ -1,0 +1,49 @@
+{
+  "name" : "D - Poker",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "2\n1144#\n2233#\n",
+    "output" : "0.4444444444444444\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "2\n9988#\n1122#\n",
+    "output" : "1.0\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "6\n1122#\n2228#\n",
+    "output" : "0.001932367149758454\n",
+    "index" : 2,
+    "active" : true
+  }, {
+    "input" : "100000\n3226#\n3597#\n",
+    "output" : "0.6296297942426154\n",
+    "index" : 3,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Main",
+  "taskClass" : "atcoder.DPoker",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.02.27",
+  "contestName" : "AtCoder - Caddi Programming Contest 2021(AtCoder Beginner Contest 193)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

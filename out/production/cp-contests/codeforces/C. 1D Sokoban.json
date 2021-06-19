@@ -1,0 +1,34 @@
+{
+  "name" : "C. 1D Sokoban",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "5\n5 6\n-1 1 5 11 15\n-4 -3 -2 6 7 15\n2 2\n-1 1\n-1000000000 1000000000\n2 2\n-1000000000 1000000000\n-1 1\n3 5\n-1 1 2\n-2 -1 1 2 5\n2 1\n1 2\n10\n",
+    "output" : "4\n2\n0\n3\n1\n",
+    "index" : 0,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.C1DSokoban",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.03.02",
+  "contestName" : "Codeforces - Educational Codeforces Round 105 (Rated for Div. 2)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

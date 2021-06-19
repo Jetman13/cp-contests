@@ -1,0 +1,38 @@
+{
+  "name" : "Seek the Joker I",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "4\n1 1\n23 2\n6 4\n114 514\n",
+    "output" : "ma la se mi no.1!\nyo xi no forever!\nma la se mi no.1!\nyo xi no forever!\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "1\n23 2",
+    "index" : 1,
+    "active" : false
+  } ],
+  "location" : "src/nowcoder",
+  "vmArgs" : "-Xmx131072M",
+  "mainClass" : "Main",
+  "taskClass" : "nowcoder.SeekTheJokerI",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.01.30",
+  "contestName" : "NowCoder",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

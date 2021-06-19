@@ -1,0 +1,44 @@
+{
+  "name" : "C. Palindromifier",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "00020101021226430012hk.com.hkicl02070537977051220102421205952040000530334454040.015802HK5908ANANLife6002HK6220051600-test1234567896304CCE0",
+    "output" : "\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "0012hk.com.hkicl020705379770512201024212059",
+    "output" : "",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "00020101021226430012hk.com.hkicl02070537977051220102409562652040000530334454040.015802HK5908ANANLife6002HK6220051600-test12345678963045A8A",
+    "output" : "",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.CPalindromifier",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2020.10.18",
+  "contestName" : "Codeforces - Codeforces Round #676 (Div. 2)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}
