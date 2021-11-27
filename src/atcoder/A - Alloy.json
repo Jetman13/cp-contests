@@ -1,0 +1,49 @@
+{
+  "name" : "A - Alloy",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "50 50\n",
+    "output" : "Alloy\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "100 0\n",
+    "output" : "Gold\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "0 100\n",
+    "output" : "Silver\n",
+    "index" : 2,
+    "active" : true
+  }, {
+    "input" : "100 2\n",
+    "output" : "Alloy\n",
+    "index" : 3,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Main",
+  "taskClass" : "atcoder.AAlloy",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.07.31",
+  "contestName" : "AtCoder - AtCoder Beginner Contest 212",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

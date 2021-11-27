@@ -1,0 +1,15 @@
+/* Class = "NSTextFieldCell"; title = "There are no desktops sharing screens on your account.  Please enable Duet Screen Sharing on your remote system."; ObjectID = "dKp-6Z-seY"; */
+"dKp-6Z-seY.title" = "您的账户上没有共享屏幕的台式机。请在远程系统上启用“Duet屏幕共享”。";
+
+/* Class = "NSButtonCell"; title = "Mirror"; ObjectID = "eEe-BA-6qM"; */
+"eEe-BA-6qM.title" = "镜像";
+
+/* Class = "NSButtonCell"; title = "Disconnect"; ObjectID = "KOO-4E-jwn"; */
+"KOO-4E-jwn.title" = "断开连接";
+
+/* Class = "NSTextFieldCell"; title = "Start 1 week trial"; ObjectID = "l2I-3w-TeD"; */
+"l2I-3w-TeD.title" = "开始一周试用";
+
+/* Class = "NSTextFieldCell"; title = "Desktop connection requires Duet Air"; ObjectID = "Wh8-6n-TC6"; */
+"Wh8-6n-TC6.title" = "台式机连接需要Duet Air";
+

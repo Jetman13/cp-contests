@@ -1,0 +1,15 @@
+/* Class = "NSButtonCell"; title = "Privacy Policy"; ObjectID = "DlI-Lj-Ydi"; */
+"DlI-Lj-Ydi.title" = "Tietosuojakäytäntö";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Email"; ObjectID = "G9i-aq-AMa"; */
+"G9i-aq-AMa.placeholderString" = "Sähköpostiosoite";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "h43-Du-ZJn"; */
+"h43-Du-ZJn.title" = "Kirjaudu ulos";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Password"; ObjectID = "QIU-7K-44r"; */
+"QIU-7K-44r.placeholderString" = "Salasana";
+
+/* Class = "NSButtonCell"; title = "Screen Sharing Enabled"; ObjectID = "yk3-9R-xPR"; */
+"yk3-9R-xPR.title" = "Ruudunjako käytössä";
+

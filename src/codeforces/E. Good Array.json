@@ -1,0 +1,44 @@
+{
+  "name" : "E. Good Array",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "5\n2 5 1 2 2\n",
+    "output" : "3\n4 1 5\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "4\n8 3 5 2\n",
+    "output" : "2\n1 4\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "5\n2 1 2 4 3\n",
+    "output" : "0\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx512M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.EGoodArray",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.06.22",
+  "contestName" : "Codeforces - Kotlin Heroes: Practice 7",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

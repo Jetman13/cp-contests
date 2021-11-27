@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisplayProductID</key>
+	<integer>0</integer>
+	<key>DisplayVendorID</key>
+	<integer>4400</integer>
+    <key>DisplayProductName</key>
+    <string>Duet Display</string>
+	<key>IODisplayEDID</key>
+	<data>AP///////wARMAAAAAAAAAAYAQKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/ABEdWV0IERpc3BsYXkKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJw=</data>
+	<key>IOGFlags</key>
+	<integer>4</integer>
+	<key>scale-resolutions</key>
+	<array>
+		<data>AAAPAAAACWAAAAAB</data>
+		<data>AAANIAAACDQAAAAB</data>
+		<data>AAAKAAAABkAAAAAB</data>
+		<data>AAAIAAAABQAAAAAB</data>
+		<data>AAAEAAAAAwAAAAAB</data>
+		<data>AAAGAAAACAAAAAAB</data>
+		<data>AAAIAAAABgAAAAAB</data>
+		<data>AAADIAAAAlgAAAAB</data>
+		<data>AAACgAAAAeAAAAAB</data>
+		<data>AAAKAAAABaAAAAABACAAAA==</data>
+		<data>AAAHgAAABLAAAAABACAAAA==</data>
+		<data>AAAHgAAABDgAAAABACAAAA==</data>
+		<data>AAAEOAAAB4AAAAABACAAAA==</data>
+		<data>AAAFAAAAAtAAAAABACAAAA==</data>
+		<data>AAAGkAAABBoAAAAB</data>
+		<data>AAAEGgAABpAAAAAB</data>
+		<data>AAAFoAAAA4QAAAAB</data>
+		<data>AAADhAAABaAAAAABACAAAA==</data>
+		<data>AAAFAAAAAyAAAAAB</data>
+		<data>AAAPAAAACWAAAAAJAKAAAA==</data>
+		<data>AAANIAAACDQAAAAJAKAAAA==</data>
+		<data>AAALQAAABwgAAAAJAKAAAA==</data>
+		<data>AAAHCAAAC0AAAAAJAKAAAA==</data>
+		<data>AAAKAAAABkAAAAABAKAAAA==</data>
+		<data>AAAIAAAABQAAAAABAKAAAA==</data>
+		<data>AAAHgAAABLAAAAABAKAAAA==</data>
+		<data>AAAHgAAABDgAAAABACAAAA==</data>
+		<data>AAAEOAAAB4AAAAABACAAAA==</data>
+		<data>AAAFAAAAAtAAAAABACAAAA==</data>
+		<data>AAABdwAAApsAAAAB</data>
+		<data>AAACmwAAAXcAAAAB</data>
+		<data>AAAC7gAABTYAAAABACAAAA==</data>
+		<data>AAAFNgAAAu4AAAABACAAAA==</data>
+		<data>AAACmwAAAXcAAAABACAAAA==</data>
+		<data>AAABdwAAApsAAAABACAAAA==</data>
+		<data>AAABQAAAAjgAAAABACAAAA==</data>
+		<data>AAACOAAAAUAAAAABACAAAA==</data>
+		<data>AAACgAAABHAAAAABACAAAA==</data>
+		<data>AAAEcAAAAoAAAAABACAAAA==</data>
+		<data>AAABngAAAuAAAAABACAAAA==</data>
+		<data>AAAC4AAAAZ4AAAABACAAAA==</data>
+		<data>AAADPAAABcAAAAABACAAAA==</data>
+		<data>AAAFwAAAAzwAAAABACAAAA==</data>
+	</array>
+</dict>
+</plist>

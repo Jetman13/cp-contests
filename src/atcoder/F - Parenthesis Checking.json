@@ -1,0 +1,44 @@
+{
+  "name" : "F - Parenthesis Checking",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "5 3\n(())(\n2 1 4\n2 1 2\n2 4 5\n",
+    "output" : "Yes\nNo\nNo\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "5 3\n(())(\n2 1 4\n1 1 4\n2 1 4\n",
+    "output" : "Yes\nNo\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "8 8\n(()(()))\n2 2 7\n2 2 8\n1 2 5\n2 3 4\n1 3 4\n1 3 5\n1 1 4\n1 6 8\n",
+    "output" : "Yes\nNo\nNo\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Main",
+  "taskClass" : "atcoder.FParenthesisChecking",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.10.19",
+  "contestName" : "AtCoder - AtCoder Beginner Contest 223",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

@@ -1,0 +1,117 @@
+/* Class = "NSTextFieldCell"; placeholderString = "Confirm Password"; ObjectID = "0qA-cW-YaH"; */
+"0qA-cW-YaH.placeholderString" = "Confirmar Contraseña";
+
+/* Class = "NSTextFieldCell"; title = "Server Port"; ObjectID = "2Jh-Hd-C4d"; */
+"2Jh-Hd-C4d.title" = "Puerto de Servicio";
+
+/* Class = "NSTextFieldCell"; title = "Screen Sharing Enabled"; ObjectID = "4kU-aA-D8i"; */
+"4kU-aA-D8i.title" = "Compartir Pantalla Habilitado";
+
+/* Class = "NSButtonCell"; title = "Send an email when a host authenticates a connection"; ObjectID = "7ET-3G-MN3"; */
+"7ET-3G-MN3.title" = "Enviar un correo electrónico cuando un anfitrión autentique una conexión";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "7w7-2t-Rqt"; */
+"7w7-2t-Rqt.title" = "Empezar";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Auto"; ObjectID = "8e8-9E-AQJ"; */
+"8e8-9E-AQJ.placeholderString" = "Auto";
+
+/* Class = "NSButtonCell"; title = "Manage your account for %@ further here."; ObjectID = "9uh-I3-n1M"; */
+"9uh-I3-n1M.title" = "Administra tu cuenta para %@ más aquí.";
+
+/* Class = "NSBox"; title = "Advanced Security Options"; ObjectID = "Al5-gb-hXU"; */
+"Al5-gb-hXU.title" = "Opciones de Seguridad Avanzadas";
+
+/* Class = "NSTextFieldCell"; title = "YOUR PROFILE"; ObjectID = "Cn9-Dv-psn"; */
+"Cn9-Dv-psn.title" = "TU PERFIL";
+
+/* Class = "NSButtonCell"; title = "AGREE & CONTINUE"; ObjectID = "G2N-Z4-dxp"; */
+"G2N-Z4-dxp.title" = "ACEPTAR Y CONTINUAR";
+
+/* Class = "NSTextFieldCell"; title = "Duet is logging your account back in and should be ready in a minute."; ObjectID = "giA-pR-X6F"; */
+"giA-pR-X6F.title" = "Duet vuelve a iniciar sesión en tu cuenta y debería estar listo en un minuto.";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "gQh-YF-RBf"; */
+"gQh-YF-RBf.title" = "Atrás";
+
+/* Class = "NSTextFieldCell"; title = "Duet Services: Error"; ObjectID = "hlX-Ng-X1j"; */
+"hlX-Ng-X1j.title" = "Servicios de Duet: Error";
+
+/* Class = "NSTextFieldCell"; title = "Duet Services EULA"; ObjectID = "HO8-QJ-5Vj"; */
+"HO8-QJ-5Vj.title" = "Servicios de Duet EULA (acuerdo de licencia de usuario final)";
+
+/* Class = "NSTextFieldCell"; title = "Duet Services"; ObjectID = "Hx3-Ml-pDU"; */
+"Hx3-Ml-pDU.title" = "Servicios de Duet";
+
+/* Class = "NSButtonCell"; title = "Forgot password?"; ObjectID = "I27-gz-zOG"; */
+"I27-gz-zOG.title" = "¿Olvidaste tu contraseña?";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "iNH-UM-ddm"; */
+"iNH-UM-ddm.title" = "Etiqueta";
+
+/* Class = "NSButtonCell"; title = "CONTINUE"; ObjectID = "kGx-ro-Zqq"; */
+"kGx-ro-Zqq.title" = "CONTINUAR";
+
+/* Class = "NSTextFieldCell"; title = "Setup"; ObjectID = "lB4-Me-XUa"; */
+"lB4-Me-XUa.title" = "Configuración";
+
+/* Class = "NSButtonCell"; title = "Send an email when a new device logs in"; ObjectID = "lEF-2K-Nzh"; */
+"lEF-2K-Nzh.title" = "Enviar un correo electrónico cuando un nuevo dispositivo inicie sesión ";
+
+/* Class = "NSButtonCell"; title = "I agree to the license terms and conditions"; ObjectID = "leY-fV-g1i"; */
+"leY-fV-g1i.title" = "Acepto los términos y condiciones de la licencia";
+
+/* Class = "NSButtonCell"; title = "Sign In"; ObjectID = "LjF-p0-5Kl"; */
+"LjF-p0-5Kl.title" = "Iniciar Sesión";
+
+/* Class = "NSTextFieldCell"; title = "Duet Services"; ObjectID = "S4I-CJ-Ug4"; */
+"S4I-CJ-Ug4.title" = "Servicios de Duet";
+
+/* Class = "NSButtonCell"; title = "Sign Up"; ObjectID = "SdO-oy-pNE"; */
+"SdO-oy-pNE.title" = "Regístrate";
+
+/* Class = "NSTextFieldCell"; title = "Sandbox"; ObjectID = "svX-eJ-pBF"; */
+"svX-eJ-pBF.title" = "Sandbox";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Password"; ObjectID = "thU-1G-Yuw"; */
+"thU-1G-Yuw.placeholderString" = "Contraseña";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "U8r-4k-jKb"; */
+"U8r-4k-jKb.title" = "Etiqueta";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Email"; ObjectID = "ugj-HO-VWc"; */
+"ugj-HO-VWc.placeholderString" = "Correo electrónico";
+
+/* Class = "NSTextFieldCell"; title = "Duet Services"; ObjectID = "vgp-4y-EiB"; */
+"vgp-4y-EiB.title" = "Servicios de Duet";
+
+/* Class = "NSWindow"; title = "Duet Services: Error"; ObjectID = "VU9-Xs-pwr"; */
+"VU9-Xs-pwr.title" = "Servicios de Duet: Error";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "Wyy-tP-UCr"; */
+"Wyy-tP-UCr.title" = "OK";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Email"; ObjectID = "xfT-87-U8M"; */
+"xfT-87-U8M.placeholderString" = "Correo electrónico";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "XQh-T5-XO6"; */
+"XQh-T5-XO6.title" = "Atrás";
+
+/* Class = "NSButtonCell"; title = "SIGN IN"; ObjectID = "xyE-jg-wXe"; */
+"xyE-jg-wXe.title" = "INICIAR SESIÓN";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Password"; ObjectID = "YLG-Tl-T03"; */
+"YLG-Tl-T03.placeholderString" = "Contraseña";
+
+/* Class = "NSTextFieldCell"; title = "A email has been sent to your provided address.  Please click the link that was sent."; ObjectID = "Yss-as-Isw"; */
+"Yss-as-Isw.title" = "Se ha enviado un correo electrónico a tu dirección proporcionada. Haz clic en el enlace que se envió.";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "Yws-du-Dbw"; */
+"Yws-du-Dbw.title" = "Desconectar";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Z95-R4-Mu5"; */
+"Z95-R4-Mu5.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Send an email when a host receives a connection"; ObjectID = "zrF-6m-Fkc"; */
+"zrF-6m-Fkc.title" = "Enviar un correo electrónico cuando un anfitrión recibe una conexión";
+

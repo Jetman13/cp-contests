@@ -1,0 +1,60 @@
+/* Class = "NSTextFieldCell"; placeholderString = "Confirm Password"; ObjectID = "0qA-cW-YaH"; */
+"0qA-cW-YaH.placeholderString" = "确认密码";
+
+/* Class = "NSTextFieldCell"; title = "Screen Sharing Enabled"; ObjectID = "4kU-aA-D8i"; */
+"4kU-aA-D8i.title" = "已启用屏幕共享";
+
+/* Class = "NSButtonCell"; title = "Send an email when a host authenticates a connection"; ObjectID = "7ET-3G-MN3"; */
+"7ET-3G-MN3.title" = "当主机验证某个连接时发送电子邮件";
+
+/* Class = "NSButtonCell"; title = "Manage your account for %@ further here."; ObjectID = "9uh-I3-n1M"; */
+"9uh-I3-n1M.title" = "在此进一步管理%@的账户。";
+
+/* Class = "NSBox"; title = "Advanced Security Options"; ObjectID = "Al5-gb-hXU"; */
+"Al5-gb-hXU.title" = "高级安全选项";
+
+/* Class = "NSTextFieldCell"; title = "YOUR PROFILE"; ObjectID = "Cn9-Dv-psn"; */
+"Cn9-Dv-psn.title" = "您的个人资料";
+
+/* Class = "NSButtonCell"; title = "AGREE & CONTINUE"; ObjectID = "G2N-Z4-dxp"; */
+"G2N-Z4-dxp.title" = "同意并继续";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "gQh-YF-RBf"; */
+"gQh-YF-RBf.title" = "返回";
+
+/* Class = "NSTextFieldCell"; title = "Duet Services EULA"; ObjectID = "HO8-QJ-5Vj"; */
+"HO8-QJ-5Vj.title" = "Duet服务最终用户许可协议";
+
+/* Class = "NSButtonCell"; title = "Forgot password?"; ObjectID = "I27-gz-zOG"; */
+"I27-gz-zOG.title" = "忘了密码？";
+
+/* Class = "NSButtonCell"; title = "Send an email when a new device logs in"; ObjectID = "lEF-2K-Nzh"; */
+"lEF-2K-Nzh.title" = "当有新设备登录时发送电子邮件";
+
+/* Class = "NSButtonCell"; title = "I agree to the license terms and conditions"; ObjectID = "leY-fV-g1i"; */
+"leY-fV-g1i.title" = "我同意许可条款和条件";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Password"; ObjectID = "thU-1G-Yuw"; */
+"thU-1G-Yuw.placeholderString" = "密码";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Email"; ObjectID = "ugj-HO-VWc"; */
+"ugj-HO-VWc.placeholderString" = "电子邮箱";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Email"; ObjectID = "xfT-87-U8M"; */
+"xfT-87-U8M.placeholderString" = "电子邮箱";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "XQh-T5-XO6"; */
+"XQh-T5-XO6.title" = "返回";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Password"; ObjectID = "YLG-Tl-T03"; */
+"YLG-Tl-T03.placeholderString" = "密码";
+
+/* Class = "NSTextFieldCell"; title = "A email has been sent to your provided address.  Please click the link that was sent."; ObjectID = "Yss-as-Isw"; */
+"Yss-as-Isw.title" = "我们已将一封电子邮件发送到您提供的地址。请点击邮件中的链接。";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "Yws-du-Dbw"; */
+"Yws-du-Dbw.title" = "退出";
+
+/* Class = "NSButtonCell"; title = "Send an email when a host receives a connection"; ObjectID = "zrF-6m-Fkc"; */
+"zrF-6m-Fkc.title" = "当主机收到连接时发送电子邮件";
+

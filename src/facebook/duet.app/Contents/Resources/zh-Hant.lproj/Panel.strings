@@ -1,0 +1,144 @@
+/* Class = "NSButtonCell"; title = "Switch To Wired Automatically"; ObjectID = "1Gr-bK-hkW"; */
+"1Gr-bK-hkW.title" = "Switch To Wired Automatically";
+
+/* Class = "NSButtonCell"; title = "Help Desk"; ObjectID = "1kD-g5-LVU"; */
+"1kD-g5-LVU.title" = "幫助中心";
+
+/* Class = "NSTextFieldCell"; title = "CONNECT"; ObjectID = "2HA-9Y-6O2"; */
+"2HA-9Y-6O2.title" = "連接";
+
+/* Class = "NSTextFieldCell"; title = "Check this box if you want your Mac to be able to connect wirelessly."; ObjectID = "5UJ-TX-Jdy"; */
+"5UJ-TX-Jdy.title" = "如果希望您的Mac能夠無線連接，請選中此框。";
+
+/* Class = "NSButtonCell"; title = "High"; ObjectID = "7hC-Wj-9Pc"; */
+"7hC-Wj-9Pc.title" = "高";
+
+/* Class = "NSTextFieldCell"; title = "Looks like 1366 x 1024"; ObjectID = "8e7-FX-ecQ"; */
+"8e7-FX-ecQ.title" = "Looks like 1366 x 1024";
+
+/* Class = "NSTabViewItem"; label = "Display"; ObjectID = "8xi-7d-ptO"; */
+"8xi-7d-ptO.label" = "顯示";
+
+/* Class = "NSButtonCell"; title = "Sign In For Remote Desktop"; ObjectID = "12T-cA-xTN"; */
+"12T-cA-xTN.title" = "遠程桌面登錄";
+
+/* Class = "NSTextFieldCell"; title = "Quality"; ObjectID = "88d-SF-0Kd"; */
+"88d-SF-0Kd.title" = "圖像質量";
+
+/* Class = "NSTextFieldCell"; title = "OTHER"; ObjectID = "aaQ-F0-lrB"; */
+"aaQ-F0-lrB.title" = "其他";
+
+/* Class = "NSButtonCell"; title = "Disconnect"; ObjectID = "AE3-gc-gu6"; */
+"AE3-gc-gu6.title" = "斷開連接";
+
+/* Class = "NSTabViewItem"; label = "Air"; ObjectID = "afN-Ja-EXE"; */
+"afN-Ja-EXE.label" = "Air";
+
+/* Class = "NSMenuItem"; title = "Mirror Display 1 (2550x1440)"; ObjectID = "AZo-zK-gH3"; */
+"AZo-zK-gH3.title" = "Mirror Display 1 (2550x1440)";
+
+/* Class = "NSTextFieldCell"; title = "More space"; ObjectID = "b3P-K0-r92"; */
+"b3P-K0-r92.title" = "更多的空間";
+
+/* Class = "NSButtonCell"; title = "60 FPS"; ObjectID = "Bjo-QH-70c"; */
+"Bjo-QH-70c.title" = "60幀每秒";
+
+/* Class = "NSButtonCell"; title = "Click to connect wirelessly"; ObjectID = "Br8-aS-PcU"; */
+"Br8-aS-PcU.title" = "點擊連接。";
+
+/* Class = "NSButtonCell"; title = "Regular"; ObjectID = "by3-wP-5g1"; */
+"by3-wP-5g1.title" = "一般";
+
+/* Class = "NSTextFieldCell"; title = "Sign in to Duet Air to get better and more secure discoverability for wireless connections through your account as well as the option to enable remote access for your Mac."; ObjectID = "CuI-U5-FdT"; */
+"CuI-U5-FdT.title" = "登錄Duet Air，通過您的賬戶以更好、更安全的方式發現無線連接，並能選擇啟用PC遠程訪問。";
+
+/* Class = "NSButtonCell"; title = "Enable Duet Air"; ObjectID = "CzZ-SX-XAZ"; */
+"CzZ-SX-XAZ.title" = "啟用Duet Air";
+
+/* Class = "NSButtonCell"; title = "30 FPS"; ObjectID = "eM8-Mc-Pvf"; */
+"eM8-Mc-Pvf.title" = "30幀每秒";
+
+/* Class = "NSButtonCell"; title = "Wired"; ObjectID = "f99-MU-uuR"; */
+"f99-MU-uuR.title" = "有線連接";
+
+/* Class = "NSTextFieldCell"; title = "If you connect using the lightning cable, it will switch."; ObjectID = "fBh-5i-HLv"; */
+"fBh-5i-HLv.title" = "If you connect using the lightning cable, it will switch.";
+
+/* Class = "NSTextFieldCell"; title = "Discovered Devices"; ObjectID = "FiA-Eq-Zst"; */
+"FiA-Eq-Zst.title" = "發現的設備";
+
+/* Class = "NSTextFieldCell"; title = "SETTINGS"; ObjectID = "FQe-qf-aCv"; */
+"FQe-qf-aCv.title" = "設置";
+
+/* Class = "NSTextFieldCell"; title = "Larger text"; ObjectID = "Gud-G9-Nkf"; */
+"Gud-G9-Nkf.title" = "增大字號";
+
+/* Class = "NSButtonCell"; title = "Use when available"; ObjectID = "Im4-go-qmc"; */
+"Im4-go-qmc.title" = "使用（如有";
+
+/* Class = "NSWindow"; title = "Duet Settings"; ObjectID = "iNL-l5-XxB"; */
+"iNL-l5-XxB.title" = "Duet Settings";
+
+/* Class = "NSButtonCell"; title = "Settings"; ObjectID = "iOA-yF-tfa"; */
+"iOA-yF-tfa.title" = "設置";
+
+/* Class = "NSTextFieldCell"; title = "Retina"; ObjectID = "ISr-pZ-Eip"; */
+"ISr-pZ-Eip.title" = "Retina";
+
+/* Class = "NSButtonCell"; title = "Sign In For Remote Desktop"; ObjectID = "jHo-ZS-BsH"; */
+"jHo-ZS-BsH.title" = "遠程桌面登錄";
+
+/* Class = "NSButtonCell"; title = "✕"; ObjectID = "jJ9-D1-YSl"; */
+"jJ9-D1-YSl.title" = "X";
+
+/* Class = "NSButtonCell"; title = "Pixel Perfect"; ObjectID = "KKs-di-4SY"; */
+"KKs-di-4SY.title" = "Pixel Perfect";
+
+/* Class = "NSButtonCell"; title = "Profile"; ObjectID = "KN1-k7-wMQ"; */
+"KN1-k7-wMQ.title" = "個人資料";
+
+/* Class = "NSTextFieldCell"; title = "Framerate"; ObjectID = "OVx-aY-mtu"; */
+"OVx-aY-mtu.title" = "幀率";
+
+/* Class = "NSTextFieldCell"; title = "Resolution"; ObjectID = "PfG-HK-Q0d"; */
+"PfG-HK-Q0d.title" = "解析度";
+
+/* Class = "NSButtonCell"; title = "Connect to IP Manually"; ObjectID = "PuV-xW-c2N"; */
+"PuV-xW-c2N.title" = "手動連接到IP";
+
+/* Class = "NSTextFieldCell"; title = "There are no wireless devices on the same network. Please make sure they are both connected to Wi-Fi and the network does not block discovery. E-mail air@duetdisplay.com if you have any issues."; ObjectID = "QhW-di-i1w"; */
+"QhW-di-i1w.title" = "同一網絡上沒有找到無線設備。請確保設備均已連接到Wi-Fi，並且網絡不會屏蔽設備發現。如有問題，請發送電子郵件至air@duetdisplay.com。";
+
+/* Class = "NSButtonCell"; title = "Settings"; ObjectID = "r0F-y1-pi0"; */
+"r0F-y1-pi0.title" = "設置";
+
+/* Class = "NSTextFieldCell"; title = "Hint: If you can't see your device, sign in with your Duet account on that device and connect from there."; ObjectID = "Rmp-lX-5fT"; */
+"Rmp-lX-5fT.title" = "提示：如果看不到您的設備，請使用該設備上的Duet賬戶登錄並從該處進行連接。";
+
+/* Class = "NSButtonCell"; title = "Desktop"; ObjectID = "Sds-Tb-0n7"; */
+"Sds-Tb-0n7.title" = "台式機";
+
+/* Class = "NSButtonCell"; title = "E-Mail Us"; ObjectID = "tbC-j6-Vbl"; */
+"tbC-j6-Vbl.title" = "給我們發電子郵件";
+
+/* Class = "NSTextFieldCell"; title = "Please connect your mobile device to view or change settings"; ObjectID = "tXW-1m-oed"; */
+"tXW-1m-oed.title" = "請連接您的移動設備以查看或更改設置";
+
+/* Class = "NSButtonCell"; title = "Mirror Display"; ObjectID = "Uov-fG-sS8"; */
+"Uov-fG-sS8.title" = "鏡像";
+
+/* Class = "NSTextFieldCell"; title = "SETTINGS"; ObjectID = "UU8-36-SfQ"; */
+"UU8-36-SfQ.title" = "設置";
+
+/* Class = "NSButtonCell"; title = "Check For Updates Now"; ObjectID = "vx9-gO-y4N"; */
+"vx9-gO-y4N.title" = "優享支持";
+
+/* Class = "NSTextFieldCell"; title = "Have a Chromebook? These devices only support wireless connections - please switch to the Air Tab for instructions."; ObjectID = "wNl-3f-6tT"; */
+"wNl-3f-6tT.title" = "您有Chromebook嗎？這些設備只支持無線連接，請切換到Air選項卡以獲取指引。";
+
+/* Class = "NSButtonCell"; title = "Quit App"; ObjectID = "xgn-4X-rlM"; */
+"xgn-4X-rlM.title" = "退出應用";
+
+/* Class = "NSButtonCell"; title = "Auto-Connect to this device"; ObjectID = "XQX-6q-zn8"; */
+"XQX-6q-zn8.title" = "Auto-Connect to this device";
+

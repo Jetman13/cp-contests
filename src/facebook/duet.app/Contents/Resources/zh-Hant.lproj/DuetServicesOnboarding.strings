@@ -1,0 +1,15 @@
+/* Class = "NSButtonCell"; title = "Privacy Policy"; ObjectID = "DlI-Lj-Ydi"; */
+"DlI-Lj-Ydi.title" = "隱私政策";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Email"; ObjectID = "G9i-aq-AMa"; */
+"G9i-aq-AMa.placeholderString" = "電子郵箱";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "h43-Du-ZJn"; */
+"h43-Du-ZJn.title" = "退出";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Password"; ObjectID = "QIU-7K-44r"; */
+"QIU-7K-44r.placeholderString" = "密碼";
+
+/* Class = "NSButtonCell"; title = "Screen Sharing Enabled"; ObjectID = "yk3-9R-xPR"; */
+"yk3-9R-xPR.title" = "已啟用屏幕共享";
+

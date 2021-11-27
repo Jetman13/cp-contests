@@ -1,0 +1,210 @@
+/* Class = "NSButtonCell"; title = "Uninstall & Restart Mac"; ObjectID = "0BG-Je-tCs"; Note = "The user needs to select this button to begin uninstalling the software and then will have to restart their Mac."; */
+"0BG-Je-tCs.title" = "アンインストールして Mac を再起動する";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1ji-1h-BtP"; Note = "This button is a prompt that has two options - to continue or to cancel. This button will cancel."; */
+"1ji-1h-BtP.title" = "キャンセル";
+
+/* Class = "NSButtonCell"; title = "Authorize"; ObjectID = "1Qf-2f-9XW"; */
+"1Qf-2f-9XW.title" = "認証する";
+
+/* Class = "NSTextFieldCell"; title = "To uninstall, please select the button below."; ObjectID = "4RF-9i-SzH"; Note = "This window has instructions for uninstalling the software. This is a description of how to begin uninstallation."; */
+"4RF-9i-SzH.title" = "アンインストールするには、下のボタンを選択してください。";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "4SX-i4-dP7"; */
+"4SX-i4-dP7.title" = "ウィンドウ";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "8Uu-Lf-dCu"; */
+"8Uu-Lf-dCu.title" = "ウィンドウ";
+
+/* Class = "NSButtonCell"; title = "Open Settings"; ObjectID = "9EH-cV-cW3"; */
+"9EH-cV-cW3.title" = "システム環境設定を開く";
+
+/* Class = "NSTextFieldCell"; title = "Duet Installing"; ObjectID = "9Zd-1T-olE"; */
+"9Zd-1T-olE.title" = "Duet をインストール中";
+
+/* Class = "NSButtonCell"; title = "Quit"; ObjectID = "39t-gm-Uov"; */
+"39t-gm-Uov.title" = "中止";
+
+/* Class = "NSTextFieldCell"; title = "If you would like to fix the issue, please upgrade to macOS 10.12.2."; ObjectID = "aHp-iq-wbe"; */
+"aHp-iq-wbe.title" = "問題を解決するためには、macOS 10.12.2にアップグレードしてください。";
+
+/* Class = "NSButtonCell"; title = "Got It"; ObjectID = "amv-eL-fV7"; */
+"amv-eL-fV7.title" = "了解";
+
+/* Class = "NSTextFieldCell"; title = "Duet has successfully installed!  To finish, select restart your mac."; ObjectID = "aOc-dE-GbQ"; */
+"aOc-dE-GbQ.title" = "Duet が正常にインストールされました！終了するには、「Mac を再起動」を選択してください";
+
+/* Class = "NSTextFieldCell"; title = "macOS Sierra has several bugs preventing Mission Control from working properly with third party USB displays, and we must disable it while using duet."; ObjectID = "ASF-4w-Ohs"; */
+"ASF-4w-Ohs.title" = "macOS SierraにはMission Controlの正常な動作を妨げる不具合が含まれているため、Duetをご使用になる際には無効化する必要がございます。";
+
+/* Class = "NSTextFieldCell"; title = "To continue, check agree and select Authorize & Install."; ObjectID = "b5m-Yd-brB"; */
+"b5m-Yd-brB.title" = "続行するには、「同意」にチェックを入れてから「認証してインストール」を選択してください。";
+
+/* Class = "NSButtonCell"; title = "Quit"; ObjectID = "bI6-Rn-AXK"; */
+"bI6-Rn-AXK.title" = "終了";
+
+/* Class = "NSButtonCell"; title = "Got It"; ObjectID = "cKO-ff-8yp"; */
+"cKO-ff-8yp.title" = "了解";
+
+/* Class = "NSButtonCell"; title = "Authorize & Install"; ObjectID = "cq5-LE-AMz"; */
+"cq5-LE-AMz.title" = "認証してインストール";
+
+/* Class = "NSTextFieldCell"; title = "Duet Installed!"; ObjectID = "d0H-l1-iUD"; */
+"d0H-l1-iUD.title" = "Duet がインストールされました！";
+
+/* Class = "NSButtonCell"; title = "View"; ObjectID = "DC2-wJ-c0K"; */
+"DC2-wJ-c0K.title" = "表示";
+
+/* Class = "NSTextFieldCell"; title = "The button below will prompt you to allow Duet access.  If it does not please check System Preferences -> Security & Privacy -> Accessibility and make sure Duet is checked on."; ObjectID = "dpb-Mb-KpI"; */
+"dpb-Mb-KpI.title" = "以下のボタンがDuetのアクセスのために表示されます。もし表示されない場合、システム環境設定＞セキュリティーとプライバシー＞アクセシビリティと進み、Duetにチェックを入れてください。";
+
+/* Class = "NSTextFieldCell"; title = "INSTALLATION"; ObjectID = "dRF-DH-MA7"; */
+"dRF-DH-MA7.title" = "インストール";
+
+/* Class = "NSTextFieldCell"; title = "Please Authorize Duet To Continue."; ObjectID = "Erj-UY-H6f"; */
+"Erj-UY-H6f.title" = "Duet を認証して続行してください。";
+
+/* Class = "NSTextFieldCell"; title = "If this is your first time using Duet, macOS requires you to approve Duet to use your mobile device as a second display"; ObjectID = "eTc-MH-AGN"; */
+"eTc-MH-AGN.title" = "Duetを初めて使用する場合は、macOSでモバイルデバイスを2番目のディスプレイとして使用するためにDuetを承認する必要があります";
+
+/* Class = "NSTextFieldCell"; title = "Photoshop, Lightroom, and other Adobe products have a bug with USB displays that can sometimes cause the canvas not to render properly on duet's display."; ObjectID = "evP-4S-GDC"; */
+"evP-4S-GDC.title" = "Photoshop、Lightroom、その他のAdobe製品ではUSBディスプレイ上でカンバスが正常に表示されない不具合が発生する事があります。";
+
+/* Class = "NSTextFieldCell"; title = "Duet Installation"; ObjectID = "evW-3o-WRp"; */
+"evW-3o-WRp.title" = "Duet のインストール";
+
+/* Class = "NSTextFieldCell"; title = "Finishing"; ObjectID = "FIi-2r-nWY"; */
+"FIi-2r-nWY.title" = "終了中";
+
+/* Class = "NSButtonCell"; title = "Grant Accessibility Privileges"; ObjectID = "fND-bO-UgC"; */
+"fND-bO-UgC.title" = "アクセシビリティ権限を許可する";
+
+/* Class = "NSTextFieldCell"; title = "duet"; ObjectID = "hFP-IZ-EmF"; */
+"hFP-IZ-EmF.title" = "duet";
+
+/* Class = "NSTextFieldCell"; title = "This could take up to several minutes as OS X restarts. Please do not force power off during the restart."; ObjectID = "hIc-Xl-Mfv"; */
+"hIc-Xl-Mfv.title" = "OS X の再起動完了まで数分かかる場合があります。再起動中に電源をオフにしないでください。";
+
+/* Class = "NSTextFieldCell"; title = "duet"; ObjectID = "Hn0-CE-iIj"; */
+"Hn0-CE-iIj.title" = "duet";
+
+/* Class = "NSTextFieldCell"; title = "If you experience this issue, there is a workaround. In the affected application's Preferences, select the Performance menu item or tab. From there, you can disable using the graphics processor. "; ObjectID = "hpy-ci-Vev"; */
+"hpy-ci-Vev.title" = "こちらの症状が見られる場合、以下の手順をお試しください。不具合の発生しているアプリの環境設定を開き、パフォーマンスを選択してください。次にメニュー内でグラフィックプロセッサーを無効化してください。";
+
+/* Class = "NSButtonCell"; title = "Skip"; ObjectID = "hwz-U5-Ytl"; */
+"hwz-U5-Ytl.title" = "スキップ";
+
+/* Class = "NSTextFieldCell"; title = "Adobe Settings"; ObjectID = "jGv-dN-YDO"; */
+"jGv-dN-YDO.title" = "Adobe設定";
+
+/* Class = "NSTextFieldCell"; title = "Moving To /Applications"; ObjectID = "JW8-GS-l80"; */
+"JW8-GS-l80.title" = "/Applicationsフォルダへアプリを移動中";
+
+/* Class = "NSTextFieldCell"; title = "Duet needs to restart your Mac to remove all components."; ObjectID = "kn1-1m-JCf"; Note = "This is a description explaining that duet will have to restart after you begin uninstallation."; */
+"kn1-1m-JCf.title" = "Duet は全てのコンポーネントを削除するため、お使いの Mac を再起動する必要があります";
+
+/* Class = "NSTextFieldCell"; title = "Enable Duet Accelerate"; ObjectID = "kr6-of-eSX"; */
+"kr6-of-eSX.title" = "Duet Accelerateを有効にする";
+
+/* Class = "NSButtonCell"; title = "Got It"; ObjectID = "M35-kf-N4t"; */
+"M35-kf-N4t.title" = "了解";
+
+/* Class = "NSTextFieldCell"; title = "If this is your first time using duet, macOS requires you to grant duet accessibility privileges to pass input from your mobile device to your Mac."; ObjectID = "MjR-Do-kNr"; */
+"MjR-Do-kNr.title" = "Duetを初めてお使いになる場合はモバイル機器からMacへの通信を可能にするため、アクセシビテリティ権限を許可する必要がございます。";
+
+/* Class = "NSTextFieldCell"; title = "Duet recently had some major upgrades and security improvements. A percentage of users require a full re-install of duet and restart of your Mac."; ObjectID = "MnD-WD-1Se"; */
+"MnD-WD-1Se.title" = "Duetに大規模なセキュリティアップデートがありました。一部のユーザーはアプリの再インストール及びMacの再起動を行う必要があります。";
+
+/* Class = "NSTextFieldCell"; title = "Enable Touch"; ObjectID = "njC-0S-TXD"; */
+"njC-0S-TXD.title" = "タッチを有効にする";
+
+/* Class = "NSButtonCell"; title = "cancel and quit"; ObjectID = "O97-bB-W15"; */
+"O97-bB-W15.title" = "キャンセルして終了する。";
+
+/* Class = "NSButtonCell"; title = "Restart Your Mac"; ObjectID = "oKB-hB-BNp"; */
+"oKB-hB-BNp.title" = "Mac を再起動";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "OkI-cF-8tc"; */
+"OkI-cF-8tc.title" = "ウィンドウ";
+
+/* Class = "NSTextFieldCell"; title = "If you would like more information or have any questions, please check out https://www.duetdisplay.com/help or email us at team@duetdisplay.com"; ObjectID = "oLo-BR-hW1"; */
+"oLo-BR-hW1.title" = "ご不明な点、ご質問等おありでしたら http://www.duetdisplay.com/help をご確認いただくか、もしくはteam@suetdisplay.comまでお問い合わせください。";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "OPA-fn-D3c"; */
+"OPA-fn-D3c.title" = "ウィンドウ";
+
+/* Class = "NSButtonCell"; title = "Exit"; ObjectID = "OQp-Sx-QOO"; */
+"OQp-Sx-QOO.title" = "終了";
+
+/* Class = "NSTextFieldCell"; title = "Open Duet On Your Mobile Device and Plug Into Your Mac Using An Appropriate Certified Cable, And You're Ready To Go!"; ObjectID = "oZZ-Xo-mnp"; */
+"oZZ-Xo-mnp.title" = "モバイルデバイスでDuetを開き、適切な認定ケーブルを使用してMacに接続すれば、準備完了です！";
+
+/* Class = "NSButtonCell"; title = "Reinstall & Restart Your Mac"; ObjectID = "Q62-xT-WS0"; */
+"Q62-xT-WS0.title" = "再インストールおよび Mac の再起動";
+
+/* Class = "NSTextFieldCell"; title = "Duet Requires Adminsitrator Priviledges To Complete Installation."; ObjectID = "Qav-zy-XwE"; */
+"Qav-zy-XwE.title" = "Duet がインストールを完了するために管理者権限を求めています。";
+
+/* Class = "NSTextFieldCell"; title = "Mission Control"; ObjectID = "QER-XI-Sz5"; */
+"QER-XI-Sz5.title" = "Mission Control";
+
+/* Class = "NSButtonCell"; title = "I agree to the license terms and conditions"; ObjectID = "qgQ-ei-mOe"; */
+"qgQ-ei-mOe.title" = "ライセンス使用条件に同意します";
+
+/* Class = "NSTextFieldCell"; title = "To get started, make sure duet is running in the menu bar at the top right."; ObjectID = "QHT-9a-mmh"; */
+"QHT-9a-mmh.title" = "始めるには、Duet が画面右上のメニューバー内で実行されていることを確認してください。";
+
+/* Class = "NSTextFieldCell"; title = "You're ready to use duet!"; ObjectID = "QzN-wk-pHz"; */
+"QzN-wk-pHz.title" = "Duet を使用する準備が完了しました！";
+
+/* Class = "NSTextFieldCell"; title = "Please  e-mail us at team@duetdisplay.com if you would like more information. "; ObjectID = "S9T-w6-m4i"; */
+"S9T-w6-m4i.title" = "他にご質問等おありでしたら、team@duetdisplay.comまでお問い合わせください。";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "SRd-mx-wRK"; */
+"SRd-mx-wRK.title" = "開始";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "T26-tK-lKY"; */
+"T26-tK-lKY.title" = "ウィンドウ";
+
+/* Class = "NSButtonCell"; title = "Exit"; ObjectID = "tmk-ww-4XN"; */
+"tmk-ww-4XN.title" = "終了";
+
+/* Class = "NSTextFieldCell"; title = "We're very sorry about the inconvenience, but if you select the button below, you should be ready to go in sixty seconds!"; ObjectID = "V0u-Aw-8RO"; */
+"V0u-Aw-8RO.title" = "ご迷惑をおかけして大変申し訳ありません。以下のボタンを選択すれば、60秒以内に準備が完了します！";
+
+/* Class = "NSTextFieldCell"; title = "duet"; ObjectID = "vzF-cK-NGK"; */
+"vzF-cK-NGK.title" = "duet";
+
+/* Class = "NSTextFieldCell"; title = "Duet License"; ObjectID = "wgu-UA-qLC"; */
+"wgu-UA-qLC.title" = "Duet ライセンス";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "wPL-iD-VHd"; */
+"wPL-iD-VHd.title" = "ウィンドウ";
+
+/* Class = "NSTextFieldCell"; title = "duet"; ObjectID = "Wtp-B4-Kzp"; */
+"Wtp-B4-Kzp.title" = "duet";
+
+/* Class = "NSTextFieldCell"; title = "Installing Duet"; ObjectID = "xbC-Ob-naO"; */
+"xbC-Ob-naO.title" = "Duet をインストール中";
+
+/* Class = "NSTextFieldCell"; title = "You must agree to the License Terms and Conditions before you can install duet."; ObjectID = "xGW-OK-QAa"; */
+"xGW-OK-QAa.title" = "Duet をインストールする前にライセンス使用条件に同意してください。";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "XWa-pS-3Fq"; */
+"XWa-pS-3Fq.title" = "ウィンドウ";
+
+/* Class = "NSTextFieldCell"; title = "Uh Oh. There Was An Issue Installing. Please Contact team@duetdisplay.com And We Will Fix It!"; ObjectID = "yJr-MW-Yt0"; */
+"yJr-MW-Yt0.title" = "インストール中に問題が発生しました。team@duetdisplay.com までお問い合わせください。問題を解決します！";
+
+/* Class = "NSTextFieldCell"; title = "This could take up to several minutes, please do not force your computer off while restarting."; ObjectID = "YKU-EV-xRv"; Note = "This is a description stating that once you click uninstall, the Mac will restart and it could take up to several minutes and the user should not force restart during this time. "; */
+"YKU-EV-xRv.title" = "完了まで数分かかる場合があります。再起動中に電源をオフにしないでください。";
+
+/* Class = "NSButtonCell"; title = "Quit"; ObjectID = "yXA-5v-AG3"; */
+"yXA-5v-AG3.title" = "中止する";
+
+/* Class = "NSButtonCell"; title = "Quit"; ObjectID = "z72-CB-d0o"; */
+"z72-CB-d0o.title" = "中止する";
+
+/* Class = "NSTextFieldCell"; title = "Please open System Preferences using the button below and approve duet if needed to continue the installation."; ObjectID = "zU3-d6-CfR"; */
+"zU3-d6-CfR.title" = "以下のボタンからシステム環境設定を開き、必要に応じてduetを認証してください。";
+

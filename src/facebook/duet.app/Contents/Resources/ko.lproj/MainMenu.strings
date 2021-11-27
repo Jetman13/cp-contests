@@ -1,0 +1,115 @@
+/* Class = "NSButtonCell"; title = "Uninstall & Restart Mac"; ObjectID = "0BG-Je-tCs"; Note = "The user needs to select this button to begin uninstalling the software and then will have to restart their Mac."; */
+"0BG-Je-tCs.title" = "설치 제거 및 Mac 재시작";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1ji-1h-BtP"; Note = "This button is a prompt that has two options - to continue or to cancel. This button will cancel."; */
+"1ji-1h-BtP.title" = "취소";
+
+/* Class = "NSTextFieldCell"; title = "To Uninstall, Please Select The Button Below."; ObjectID = "4RF-9i-SzH"; */
+"4RF-9i-SzH.title" = "설치를 제거하려면, 아래의 버튼을 선택하세요.";
+
+/* Class = "NSTextFieldCell"; title = "Duet Installing"; ObjectID = "9Zd-1T-olE"; */
+"9Zd-1T-olE.title" = "Duet 설치 중";
+
+/* Class = "NSButtonCell"; title = "Quit"; ObjectID = "39t-gm-Uov"; */
+"39t-gm-Uov.title" = "종료";
+
+/* Class = "NSTextFieldCell"; title = "To Finish, select Restart Your Mac."; ObjectID = "Dnu-o2-fsh"; */
+"Dnu-o2-fsh.title" = "완료하려면, Mac 재시작을 선택하세요.";
+
+/* Class = "NSTextFieldCell"; title = "Please Authorize Duet To Continue."; ObjectID = "Erj-UY-H6f"; */
+"Erj-UY-H6f.title" = "계속 진행하려면 Duet을 승인하세요.";
+
+/* Class = "NSTextFieldCell"; title = "Finishing"; ObjectID = "FIi-2r-nWY"; */
+"FIi-2r-nWY.title" = "완료 중";
+
+/* Class = "NSTextFieldCell"; title = "Moving To /Applications"; ObjectID = "JW8-GS-l80"; */
+"JW8-GS-l80.title" = "/애플리케이션 폴더로 이동 중";
+
+/* Class = "NSButtonCell"; title = "Exit"; ObjectID = "OQp-Sx-QOO"; */
+"OQp-Sx-QOO.title" = "나가기";
+
+/* Class = "NSButtonCell"; title = "Reinstall & Restart Your Mac"; ObjectID = "Q62-xT-WS0"; */
+"Q62-xT-WS0.title" = "재설치 및 Mac 재시작";
+
+/* Class = "NSTextFieldCell"; title = "To Get Started, Make Sure Duet Is Running In The Menu Bar At The Top Right."; ObjectID = "QHT-9a-mmh"; */
+"QHT-9a-mmh.title" = "시작하려면, 우측 상단의 메뉴바에서 Duet이 실행되고 있는지 확인하세요.";
+
+/* Class = "NSTextFieldCell"; title = "Duet Requires Adminsitrator Priviledges To Complete Installation."; ObjectID = "Qav-zy-XwE"; */
+"Qav-zy-XwE.title" = "설치를 완료하려면 Duet에 관리자 권한이 필요합니다.";
+
+/* Class = "NSTextFieldCell"; title = "You're Ready To Use Duet!"; ObjectID = "QzN-wk-pHz"; */
+"QzN-wk-pHz.title" = "이제 Duet을 사용하실 수 있습니다!";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "SRd-mx-wRK"; */
+"SRd-mx-wRK.title" = "시작";
+
+/* Class = "NSTextFieldCell"; title = "We're very sorry about the inconvenience, but if you select the button below, you should be ready to go in sixty seconds!"; ObjectID = "V0u-Aw-8RO"; */
+"V0u-Aw-8RO.title" = "불편을 끼쳐드려 죄송합니다. 아래의 버튼을 선택하면, 1분 내로 이용하실 수 있습니다!";
+
+/* Class = "NSTextFieldCell"; title = "This could take up to several minutes, please do not force your computer off while restarting."; ObjectID = "YKU-EV-xRv"; Note = "This is a description stating that once you click uninstall, the Mac will restart and it could take up to several minutes and the user should not force restart during this time. "; */
+"YKU-EV-xRv.title" = "이 작업은 몇 분 정도 소요됩니다. 재시작 도중에 컴퓨터 전원을 끄지 마세요.";
+
+/* Class = "NSTextFieldCell"; title = "Duet Has Successfully Installed! "; ObjectID = "aOc-dE-GbQ"; */
+"aOc-dE-GbQ.title" = "Duet이 성공적으로 설치되었습니다! 완료하려면, Mac 재시작을 선택하세요.";
+
+/* Class = "NSTextFieldCell"; title = "To continue, check agree and select Authorize & Install."; ObjectID = "b5m-Yd-brB"; */
+"b5m-Yd-brB.title" = "계속 진행하려면, '동의'에 체크 표시를 하고 승인 및 설치를 선택하세요.";
+
+/* Class = "NSButtonCell"; title = "Got It"; ObjectID = "cKO-ff-8yp"; */
+"cKO-ff-8yp.title" = "확인";
+
+/* Class = "NSButtonCell"; title = "Authorize & Install"; ObjectID = "cq5-LE-AMz"; */
+"cq5-LE-AMz.title" = "승인 및 설치";
+
+/* Class = "NSTextFieldCell"; title = "Duet Installed!"; ObjectID = "d0H-l1-iUD"; */
+"d0H-l1-iUD.title" = "Duet 설치 완료!";
+
+/* Class = "NSTextFieldCell"; title = "INSTALLATION"; ObjectID = "dRF-DH-MA7"; */
+"dRF-DH-MA7.title" = "설치";
+
+/* Class = "NSTextFieldCell"; title = "Duet Installation"; ObjectID = "evW-3o-WRp"; */
+"evW-3o-WRp.title" = "Duet 설치";
+
+/* Class = "NSTextFieldCell"; title = "This could take up to several minutes as OS X restarts. Please do not force power off during the restart."; ObjectID = "hIc-Xl-Mfv"; */
+"hIc-Xl-Mfv.title" = "OS X 재시작으로, 몇 분 정도 소요될 수 있습니다. 재시작 도중에 전원을 끄지 마세요.";
+
+/* Class = "NSTextFieldCell"; title = "Duet needs to restart your Mac to remove all components."; ObjectID = "kn1-1m-JCf"; Note = "This is a description explaining that duet will have to restart after you begin uninstallation."; */
+"kn1-1m-JCf.title" = "모든 구성 요소를 제거하려면 Duet이 Mac을 다시 시작해야 합니다.";
+
+/* Class = "NSButtonCell"; title = "Restart Your Mac"; ObjectID = "oKB-hB-BNp"; */
+"oKB-hB-BNp.title" = "Mac 재시작";
+
+/* Class = "NSTextFieldCell"; title = "Open Duet On Your iPad and Plug Into Your Mac Using an Apple Certified Lightning Cable, And You're Ready To Go!"; ObjectID = "oZZ-Xo-mnp"; */
+"oZZ-Xo-mnp.title" = "적절한 인증 케이블을 사용하여 모바일 장치에서 Duet을 열고 Mac에 연결하면 바로 사용할 수 있습니다!";
+
+/* Class = "NSButtonCell"; title = "I Agree To The License Terms and Conditions"; ObjectID = "qgQ-ei-mOe"; */
+"qgQ-ei-mOe.title" = "라이선스 이용 약관에 동의합니다.";
+
+/* Class = "NSButtonCell"; title = "Exit"; ObjectID = "tmk-ww-4XN"; */
+"tmk-ww-4XN.title" = "나가기";
+
+/* Class = "NSTextFieldCell"; title = "Duet License"; ObjectID = "wgu-UA-qLC"; */
+"wgu-UA-qLC.title" = "Duet 라이선스";
+
+/* Class = "NSTextFieldCell"; title = "You must agree to the License Terms and Conditions before you can install duet."; ObjectID = "xGW-OK-QAa"; */
+"xGW-OK-QAa.title" = "Duet을 설치하기 전에 라이선스 이용 약관에 동의하셔야 합니다.";
+
+/* Class = "NSTextFieldCell"; title = "Installing Duet"; ObjectID = "xbC-Ob-naO"; */
+"xbC-Ob-naO.title" = "Duet 설치 중";
+
+/* Class = "NSTextFieldCell"; title = "Uh Oh. There Was An Issue Installing. Please Contact team@duetdisplay.com And We Will Fix It!"; ObjectID = "yJr-MW-Yt0"; */
+"yJr-MW-Yt0.title" = "설치 도중에 문제가 발생했습니다. team@duetdisplay.com으로 연락주시면, 문제를 해결하겠습니다.";
+
+/* Class = "NSButtonCell"; title = "Quit"; ObjectID = "yXA-5v-AG3"; */
+"yXA-5v-AG3.title" = "종료";
+
+
+/* Class = "NSButtonCell"; title = "If this is your first time using Duet, MacOS requires you to approve Duet to use your iPad as a second display. ";  */
+"eTc-MH-AGN.title" = "Duet을 처음 사용하는 경우 macOS에서는 휴대 기기를 두 번째 디스플레이로 사용하기 위해 Duet을 승인해야합니다";
+
+/* Class = "NSButtonCell"; title = "
+ Please open System Preferences using the button below and approve Duet if needed to continue the installation.";  */
+"zU3-d6-CfR.title" = "아래의 버튼을 클릭하여 시스템 환경설정을 연 다음, 필요할 경우 Duet을 승인하여 설치를 계속 진행하세요.";
+
+/* Class = "NSButtonCell"; title = "Open Settings";  */
+"9EH-cV-cW3.title" = "설정 열기";

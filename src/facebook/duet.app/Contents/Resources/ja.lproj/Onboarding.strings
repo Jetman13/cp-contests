@@ -1,0 +1,15 @@
+/* Class = "NSButtonCell"; title = "Grant Screen Recording Permission"; ObjectID = "6mH-5n-b8J"; */
+"6mH-5n-b8J.title" = "画面収録を許可する";
+
+/* Class = "NSButtonCell"; title = "cancel and quit"; ObjectID = "Hr9-zD-HtA"; */
+"Hr9-zD-HtA.title" = "中止して終了する";
+
+/* Class = "NSTextFieldCell"; title = "If this is your first time using Duet on Catalina (10.15) or later, Apple now requires us to have the Screen Recording permission."; ObjectID = "IY5-Jt-bEs"; */
+"IY5-Jt-bEs.title" = "Catalina（10.15）以降でDuetを使用するのが初めての場合、Appleは画面収録の許可を要求します。";
+
+/* Class = "NSTextFieldCell"; title = "Enable Screen Capture"; ObjectID = "n7r-7a-VQT"; */
+"n7r-7a-VQT.title" = "画面キャプチャを有効にする";
+
+/* Class = "NSTextFieldCell"; title = "The button below will prompt you to allow Duet access.  If it does not please check System Preferences -> Security & Privacy -> Screen Recording and make sure Duet is checked on."; ObjectID = "R6q-e6-d8H"; */
+"R6q-e6-d8H.title" = "\nこのボタンをクリックすると、Duetアクセスを許可するように求められます。表示されない場合は、[システム環境設定]> [セキュリティとプライバシー]> [画面収録]を確認し、Duetがオンになっていることを確認してください。";
+

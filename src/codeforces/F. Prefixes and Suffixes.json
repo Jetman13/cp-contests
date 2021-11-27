@@ -1,0 +1,44 @@
+{
+  "name" : "F. Prefixes and Suffixes",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "5\nba\na\nabab\na\naba\nbaba\nab\naba\n",
+    "output" : "SPPSPSPS\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "3\na\naa\naa\na\n",
+    "output" : "PPSS\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "2\na\nc\n",
+    "output" : "PS\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx512M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.FPrefixesAndSuffixes",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.06.25",
+  "contestName" : "Codeforces - Kotlin Heroes: Practice 7",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

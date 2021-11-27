@@ -1,0 +1,60 @@
+/* Class = "NSTextFieldCell"; placeholderString = "Confirm Password"; ObjectID = "0qA-cW-YaH"; */
+"0qA-cW-YaH.placeholderString" = "Wachtwoord bevestigen";
+
+/* Class = "NSTextFieldCell"; title = "Screen Sharing Enabled"; ObjectID = "4kU-aA-D8i"; */
+"4kU-aA-D8i.title" = "Scherm delen ingeschakeld";
+
+/* Class = "NSButtonCell"; title = "Send an email when a host authenticates a connection"; ObjectID = "7ET-3G-MN3"; */
+"7ET-3G-MN3.title" = "Stuur een e-mail als een host een verbinding verifieert";
+
+/* Class = "NSButtonCell"; title = "Manage your account for %@ further here."; ObjectID = "9uh-I3-n1M"; */
+"9uh-I3-n1M.title" = "Beheer je account voor %@ hier.";
+
+/* Class = "NSBox"; title = "Advanced Security Options"; ObjectID = "Al5-gb-hXU"; */
+"Al5-gb-hXU.title" = "Geavanceerde beveiligingsopties";
+
+/* Class = "NSTextFieldCell"; title = "YOUR PROFILE"; ObjectID = "Cn9-Dv-psn"; */
+"Cn9-Dv-psn.title" = "JE PROFIEL";
+
+/* Class = "NSButtonCell"; title = "AGREE & CONTINUE"; ObjectID = "G2N-Z4-dxp"; */
+"G2N-Z4-dxp.title" = "Akkoord & verder";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "gQh-YF-RBf"; */
+"gQh-YF-RBf.title" = "Terug";
+
+/* Class = "NSTextFieldCell"; title = "Duet Services EULA"; ObjectID = "HO8-QJ-5Vj"; */
+"HO8-QJ-5Vj.title" = "Licentieovereenkomst voor eindgebruikers Duet Services";
+
+/* Class = "NSButtonCell"; title = "Forgot password?"; ObjectID = "I27-gz-zOG"; */
+"I27-gz-zOG.title" = "Wachtwoord vergeten?";
+
+/* Class = "NSButtonCell"; title = "Send an email when a new device logs in"; ObjectID = "lEF-2K-Nzh"; */
+"lEF-2K-Nzh.title" = "Stuur een e-mail als er een nieuw apparaat wordt aangemeld";
+
+/* Class = "NSButtonCell"; title = "I agree to the license terms and conditions"; ObjectID = "leY-fV-g1i"; */
+"leY-fV-g1i.title" = "Ik ga akkoord met de licentievoorwaarden";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Password"; ObjectID = "thU-1G-Yuw"; */
+"thU-1G-Yuw.placeholderString" = "Wachtwoord";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Email"; ObjectID = "ugj-HO-VWc"; */
+"ugj-HO-VWc.placeholderString" = "E-mailadres";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Email"; ObjectID = "xfT-87-U8M"; */
+"xfT-87-U8M.placeholderString" = "E-mailadres";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "XQh-T5-XO6"; */
+"XQh-T5-XO6.title" = "Terug";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Password"; ObjectID = "YLG-Tl-T03"; */
+"YLG-Tl-T03.placeholderString" = "Wachtwoord";
+
+/* Class = "NSTextFieldCell"; title = "A email has been sent to your provided address.  Please click the link that was sent."; ObjectID = "Yss-as-Isw"; */
+"Yss-as-Isw.title" = "Er is een e-mail naar het door jou opgegeven adres gestuurd. Klik op de link in deze e-mail.";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "Yws-du-Dbw"; */
+"Yws-du-Dbw.title" = "Afmelden";
+
+/* Class = "NSButtonCell"; title = "Send an email when a host receives a connection"; ObjectID = "zrF-6m-Fkc"; */
+"zrF-6m-Fkc.title" = "Stuur een e-mail als een host een verbinding ontvangt";
+

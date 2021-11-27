@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; title = "There are no desktops sharing screens on your account.  Please enable Duet Screen Sharing on your remote system."; ObjectID = "dKp-6Z-seY"; */
+"dKp-6Z-seY.title" = "Tiliisi ei ole liitetty ruutua jakavia työpöytiä. Ota Duetin ruudunjako käyttöön etäjärjestelmästä.";
+
+/* Class = "NSTextFieldCell"; title = "Features Include:"; ObjectID = "DXm-uO-uLi"; */
+"DXm-uO-uLi.title" = "Toimintoja:";
+
+/* Class = "NSButtonCell"; title = "Mirror"; ObjectID = "eEe-BA-6qM"; */
+"eEe-BA-6qM.title" = "Peilaus";
+
+/* Class = "NSTextFieldCell"; title = "iPad as a wireless display\nRemote desktop\nPixel perfect rendering\nMonthly updates & upgrades\nPriority support"; ObjectID = "gSY-wo-lV2"; */
+"gSY-wo-lV2.title" = "iPad langattomana näyttönä\nEtätyöpöytä\nTäydellinen hahmontaminen\nKuukausittaiset päivitykset\nEnsisijainen tuki";
+
+/* Class = "NSButtonCell"; title = "Air"; ObjectID = "JFd-4b-IrU"; */
+"JFd-4b-IrU.title" = "Air";
+
+/* Class = "NSButtonCell"; title = "Disconnect"; ObjectID = "KOO-4E-jwn"; */
+"KOO-4E-jwn.title" = "Katkaise yhteys";
+
+/* Class = "NSTextFieldCell"; title = "Start 1 week trial"; ObjectID = "l2I-3w-TeD"; */
+"l2I-3w-TeD.title" = "Aloita viikon kokeilujakso";
+
+/* Class = "NSTextFieldCell"; title = "Desktop connection requires Duet Air"; ObjectID = "Wh8-6n-TC6"; */
+"Wh8-6n-TC6.title" = "Työpöytäyhteys vaatii Duet Airin";
+

@@ -1,2 +1,2 @@
-41 src/codeforces/C. Challenging Cliffs.json
+38 src/atcoder/E - Graph Destruction.json
 0

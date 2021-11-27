@@ -1,0 +1,111 @@
+/* Class = "NSButtonCell"; title = "Uninstall & Restart Mac"; ObjectID = "0BG-Je-tCs"; Note = "The user needs to select this button to begin uninstalling the software and then will have to restart their Mac."; */
+"0BG-Je-tCs.title" = "卸载软件并重新启动Mac";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1ji-1h-BtP"; Note = "This button is a prompt that has two options - to continue or to cancel. This button will cancel."; */
+"1ji-1h-BtP.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "To uninstall, please select the button below."; ObjectID = "4RF-9i-SzH"; Note = "This window has instructions for uninstalling the software. This is a description of how to begin uninstallation."; */
+"4RF-9i-SzH.title" = "要卸载，请选择下面的按钮。";
+
+/* Class = "NSButtonCell"; title = "Open Settings"; ObjectID = "9EH-cV-cW3"; */
+"9EH-cV-cW3.title" = "打开设置";
+
+/* Class = "NSTextFieldCell"; title = "Duet Installing"; ObjectID = "9Zd-1T-olE"; */
+"9Zd-1T-olE.title" = "Duet安装中";
+
+/* Class = "NSButtonCell"; title = "Quit"; ObjectID = "39t-gm-Uov"; */
+"39t-gm-Uov.title" = "退出";
+
+/* Class = "NSTextFieldCell"; title = "Duet has successfully installed!  To finish, select restart your mac."; ObjectID = "aOc-dE-GbQ"; */
+"aOc-dE-GbQ.title" = "Duet 安装已完成！";
+
+/* Class = "NSTextFieldCell"; title = "To continue, check agree and select Authorize & Install."; ObjectID = "b5m-Yd-brB"; */
+"b5m-Yd-brB.title" = "若要开启安装，请勾选同意并选择“授权并安装”。";
+
+/* Class = "NSButtonCell"; title = "Got It"; ObjectID = "cKO-ff-8yp"; */
+"cKO-ff-8yp.title" = "了解";
+
+/* Class = "NSButtonCell"; title = "Authorize & Install"; ObjectID = "cq5-LE-AMz"; */
+"cq5-LE-AMz.title" = "授权并安装";
+
+/* Class = "NSTextFieldCell"; title = "Duet Installed!"; ObjectID = "d0H-l1-iUD"; */
+"d0H-l1-iUD.title" = "Duet安装成功！";
+
+/* Class = "NSTextFieldCell"; title = "INSTALLATION"; ObjectID = "dRF-DH-MA7"; */
+"dRF-DH-MA7.title" = "安装助手";
+
+/* Class = "NSTextFieldCell"; title = "Please Authorize Duet To Continue."; ObjectID = "Erj-UY-H6f"; */
+"Erj-UY-H6f.title" = "请授权Duet来继续。";
+
+/* Class = "NSTextFieldCell"; title = "If this is your first time using Duet, macOS requires you to approve Duet to use your mobile device as a second display"; ObjectID = "eTc-MH-AGN"; */
+"eTc-MH-AGN.title" = "如果这是您第一次使用Duet，则macOS要求您批准Duet将您的移动设备用作第二显示器";
+
+/* Class = "NSTextFieldCell"; title = "Duet Installation"; ObjectID = "evW-3o-WRp"; */
+"evW-3o-WRp.title" = "Duet安装";
+
+/* Class = "NSTextFieldCell"; title = "Finishing"; ObjectID = "FIi-2r-nWY"; */
+"FIi-2r-nWY.title" = "正在结束安装";
+
+/* Class = "NSTextFieldCell"; title = "This could take up to several minutes as OS X restarts. Please do not force power off during the restart."; ObjectID = "hIc-Xl-Mfv"; */
+"hIc-Xl-Mfv.title" = "OS X可能需要几分钟来重新启动。重新启动过程中请勿强行关机。";
+
+/* Class = "NSTextFieldCell"; title = "Moving To /Applications"; ObjectID = "JW8-GS-l80"; */
+"JW8-GS-l80.title" = "正在将 Duet 移到 /Application";
+
+/* Class = "NSTextFieldCell"; title = "Duet needs to restart your Mac to remove all components."; ObjectID = "kn1-1m-JCf"; Note = "This is a description explaining that duet will have to restart after you begin uninstallation."; */
+"kn1-1m-JCf.title" = "Duet需要重新启动Mac来移除所有组件";
+
+/* Class = "NSButtonCell"; title = "Restart Your Mac"; ObjectID = "oKB-hB-BNp"; */
+"oKB-hB-BNp.title" = "重启你的 Mac 电脑";
+
+/* Class = "NSButtonCell"; title = "Exit"; ObjectID = "OQp-Sx-QOO"; */
+"OQp-Sx-QOO.title" = "退出";
+
+/* Class = "NSTextFieldCell"; title = "Open Duet On Your Mobile Device and Plug Into Your Mac Using An Appropriate Certified Cable, And You're Ready To Go!"; ObjectID = "oZZ-Xo-mnp"; */
+"oZZ-Xo-mnp.title" = "在移动设备上打开Duet，然后使用经过认证的适当电缆插入Mac，即可开始使用！";
+
+/* Class = "NSButtonCell"; title = "Reinstall & Restart Your Mac"; ObjectID = "Q62-xT-WS0"; */
+"Q62-xT-WS0.title" = "重新安装软件并重新启动Mac";
+
+/* Class = "NSTextFieldCell"; title = "Duet Requires Adminsitrator Priviledges To Complete Installation."; ObjectID = "Qav-zy-XwE"; */
+"Qav-zy-XwE.title" = "Duet需要管理员权限才能完成安装。";
+
+/* Class = "NSButtonCell"; title = "I agree to the license terms and conditions"; ObjectID = "qgQ-ei-mOe"; */
+"qgQ-ei-mOe.title" = "我同意许可协议";
+
+/* Class = "NSTextFieldCell"; title = "To get started, make sure duet is running in the menu bar at the top right."; ObjectID = "QHT-9a-mmh"; */
+"QHT-9a-mmh.title" = "请确定 Duet 图标在屏幕右上方的菜单栏中。";
+
+/* Class = "NSTextFieldCell"; title = "You're ready to use duet!"; ObjectID = "QzN-wk-pHz"; */
+"QzN-wk-pHz.title" = "您已可开始使用 Duet";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "SRd-mx-wRK"; */
+"SRd-mx-wRK.title" = "安装";
+
+/* Class = "NSButtonCell"; title = "Exit"; ObjectID = "tmk-ww-4XN"; */
+"tmk-ww-4XN.title" = "退出";
+
+/* Class = "NSTextFieldCell"; title = "We're very sorry about the inconvenience, but if you select the button below, you should be ready to go in sixty seconds!"; ObjectID = "V0u-Aw-8RO"; */
+"V0u-Aw-8RO.title" = "对于给您带来的不便，我们深表歉意。您可以选择下面的按钮，60秒以内即可开始使用！";
+
+/* Class = "NSTextFieldCell"; title = "Duet License"; ObjectID = "wgu-UA-qLC"; */
+"wgu-UA-qLC.title" = "Duet 许可证";
+
+/* Class = "NSTextFieldCell"; title = "Installing Duet"; ObjectID = "xbC-Ob-naO"; */
+"xbC-Ob-naO.title" = "正在安装 Duet";
+
+/* Class = "NSTextFieldCell"; title = "You must agree to the License Terms and Conditions before you can install duet."; ObjectID = "xGW-OK-QAa"; */
+"xGW-OK-QAa.title" = "你必须在开始安装 Duet 前阅读并同意许可协议。";
+
+/* Class = "NSTextFieldCell"; title = "Uh Oh. There Was An Issue Installing. Please Contact team@duetdisplay.com And We Will Fix It!"; ObjectID = "yJr-MW-Yt0"; */
+"yJr-MW-Yt0.title" = "糟糕，安装时出现问题。请联系team@duetdisplay.com，我们会设法修复！";
+
+/* Class = "NSTextFieldCell"; title = "This could take up to several minutes, please do not force your computer off while restarting."; ObjectID = "YKU-EV-xRv"; Note = "This is a description stating that once you click uninstall, the Mac will restart and it could take up to several minutes and the user should not force restart during this time. "; */
+"YKU-EV-xRv.title" = "重启过程可能需要数分钟。 请不要在重启过程中强行关机。";
+
+/* Class = "NSButtonCell"; title = "Quit"; ObjectID = "yXA-5v-AG3"; */
+"yXA-5v-AG3.title" = "退出";
+
+/* Class = "NSTextFieldCell"; title = "Please open System Preferences using the button below and approve duet if needed to continue the installation."; ObjectID = "zU3-d6-CfR"; */
+"zU3-d6-CfR.title" = "请使用下面的按钮打开系统偏好设置，并根据需要批准Duet以继续安装。";
+

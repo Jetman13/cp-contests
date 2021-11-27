@@ -1,0 +1,39 @@
+{
+  "name" : "I. 驾驶卡丁车",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "5 4\n....\n##..\n..#.\n.*..\n....\n12\nURULLULLLLUD\n",
+    "output" : "3 2\nCrash! 3 2\nCrash! 3 2\n3 2\n3 2\nCrash! 3 2\n3 2\n3 2\n3 2\n3 2\n4 3\n4 3\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "10 10\n####....##\n##.......#\n#....##...\n#...####..\n#...####..\n#...####..\n#.........\n#...####..\n....####..\n*...####..\n16\nUURUURRULUULLUUD\n",
+    "output" : "9 1\nCrash! 9 1\n9 1\n8 2\n6 4\nCrash! 6 4\n6 4\n7 5\n7 6\n7 8\nCrash! 7 10\n7 10\n7 10\n6 10\n4 10\n3 10\n",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx512M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.I",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.11.06",
+  "contestName" : "Codeforces - 2021年中国大学生程序设计竞赛女生专场",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

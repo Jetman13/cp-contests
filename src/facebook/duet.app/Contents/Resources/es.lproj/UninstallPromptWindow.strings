@@ -1,0 +1,15 @@
+/* Class = "NSButtonCell"; title = "CANCEL"; ObjectID = "CpM-vJ-eZv"; */
+"CpM-vJ-eZv.title" = "CANCELAR";
+
+/* Class = "NSButtonCell"; title = "UNINSTALL"; ObjectID = "fob-mV-dM5"; */
+"fob-mV-dM5.title" = "DESINSTALAR";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "OZV-pN-bl6"; */
+"OZV-pN-bl6.title" = "Ventana";
+
+/* Class = "NSTextFieldCell"; title = "This will remove Duet and all of it's features from your computer."; ObjectID = "RTH-3M-VXk"; */
+"RTH-3M-VXk.title" = "Esto removerá Duet y todas sus características de tu ordenador. ";
+
+/* Class = "NSTextFieldCell"; title = "Are You Sure You Want To Uninstall Duet?"; ObjectID = "X4B-hw-IAE"; */
+"X4B-hw-IAE.title" = "¿Estas Seguro Que Quieres Desinstalar Duet?";
+

@@ -1,0 +1,12 @@
+/* Class = "NSTextFieldCell"; placeholderString = "Email"; ObjectID = "G9i-aq-AMa"; */
+"G9i-aq-AMa.placeholderString" = "E-mail";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "h43-Du-ZJn"; */
+"h43-Du-ZJn.title" = "Se déconnecter";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Password"; ObjectID = "QIU-7K-44r"; */
+"QIU-7K-44r.placeholderString" = "Mot de passe";
+
+/* Class = "NSButtonCell"; title = "Screen Sharing Enabled"; ObjectID = "yk3-9R-xPR"; */
+"yk3-9R-xPR.title" = "Partage d'écran activé";
+

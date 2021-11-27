@@ -1,0 +1,246 @@
+
+/* Class = "NSWindow"; title = "Duet Settings"; ObjectID = "5"; */
+"5.title" = "Duet Settings";
+
+/* Class = "NSTextFieldCell"; title = "duet"; ObjectID = "41"; */
+"41.title" = "duet";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Settings"; ObjectID = "47"; */
+"47.ibShadowedToolTip" = "Settings";
+
+/* Class = "NSTextFieldCell"; title = "Open duet on iOS"; ObjectID = "61"; */
+"61.title" = "모바일 장치에서 Duet 열기";
+
+/* Class = "NSTextFieldCell"; title = "Connect device to Mac with"; ObjectID = "63"; */
+"63.title" = "Connect device to Mac with";
+
+/* Class = "NSMenuItem"; title = "Ask Us A Question"; ObjectID = "74"; */
+"74.title" = "Ask Us A Question";
+
+/* Class = "NSMenuItem"; title = "Quit"; ObjectID = "76"; */
+"76.title" = "Quit";
+
+/* Class = "NSMenuItem"; title = "Uninstall Duet"; ObjectID = "83"; */
+"83.title" = "Uninstall Duet";
+
+/* Class = "NSTextFieldCell"; title = "or"; ObjectID = "150"; */
+"150.title" = "or";
+
+/* Class = "NSMenuItem"; title = "Help Center"; ObjectID = "151"; */
+"151.title" = "Help Center";
+
+/* Class = "NSMenuItem"; title = "Preferences"; ObjectID = "199"; */
+"199.title" = "Preferences";
+
+/* Class = "NSMenu"; title = "Preferences"; ObjectID = "200"; */
+"200.title" = "Preferences";
+
+/* Class = "NSMenuItem"; title = "Check For Updates"; ObjectID = "213"; */
+"213.title" = "Check For Updates";
+
+/* Class = "NSMenuItem"; title = "Update App Automatically"; ObjectID = "215"; */
+"215.title" = "Update App Automatically";
+
+/* Class = "NSMenuItem"; title = "Launch At Login"; ObjectID = "217"; */
+"217.title" = "Launch At Login";
+
+/* Class = "NSMenuItem"; title = "Version 1.0.0"; ObjectID = "222"; */
+"222.title" = "Version 1.0.0";
+
+/* Class = "NSMenuItem"; title = "Display Arrangement"; ObjectID = "225"; */
+"225.title" = "Display Arrangement";
+
+/* Class = "NSMenuItem"; title = "Graphics Card"; ObjectID = "227"; */
+"227.title" = "Graphics Card";
+
+/* Class = "NSMenu"; title = "Graphics Card"; ObjectID = "228"; */
+"228.title" = "Graphics Card";
+
+/* Class = "NSMenuItem"; title = "Discrete (Recommended)"; ObjectID = "229"; */
+"229.title" = "Discrete (Recommended)";
+
+/* Class = "NSMenuItem"; title = "Integrated (Energy Savings)"; ObjectID = "233"; */
+"233.title" = "Integrated (Energy Savings)";
+
+/* Class = "NSMenuItem"; title = "When Duet Is Connected..."; ObjectID = "238"; */
+"238.title" = "When Duet Is Connected...";
+
+/* Class = "NSTextFieldCell"; title = "Settings"; ObjectID = "0Mk-Nx-OB4"; */
+"0Mk-Nx-OB4.title" = "Settings";
+
+/* Class = "NSButtonCell"; title = "Switch To Wired Automatically"; ObjectID = "1Gr-bK-hkW"; */
+"1Gr-bK-hkW.title" = "Switch To Wired Automatically";
+
+/* Class = "NSSegmentedCell"; 3sf-4e-YGV.ibShadowedLabels[0] = "Enabled"; ObjectID = "3sf-4e-YGV"; */
+"3sf-4e-YGV.ibShadowedLabels[0]" = "사용";
+
+/* Class = "NSSegmentedCell"; 3sf-4e-YGV.ibShadowedLabels[1] = "Disabled"; ObjectID = "3sf-4e-YGV"; */
+"3sf-4e-YGV.ibShadowedLabels[1]" = "꺼져있는";
+
+/* Class = "NSButtonCell"; title = "High"; ObjectID = "7hC-Wj-9Pc"; */
+"7hC-Wj-9Pc.title" = "고품질";
+
+/* Class = "NSTextFieldCell"; title = "Quality"; ObjectID = "88d-SF-0Kd"; */
+"88d-SF-0Kd.title" = "Quality";
+
+/* Class = "NSTextFieldCell"; title = "Display Type:"; ObjectID = "8Zf-fG-3r0"; */
+"8Zf-fG-3r0.title" = "Display Type:";
+
+/* Class = "NSTextFieldCell"; title = "Looks like 1366 x 1024"; ObjectID = "8e7-FX-ecQ"; */
+"8e7-FX-ecQ.title" = "Looks like 1366 x 1024";
+
+/* Class = "NSTabViewItem"; label = "Display"; ObjectID = "8xi-7d-ptO"; */
+"8xi-7d-ptO.label" = "디스플레이";
+
+/* Class = "NSMenuItem"; title = "Mirror Display 1 (2550x1440)"; ObjectID = "AZo-zK-gH3"; */
+"AZo-zK-gH3.title" = "Mirror Display 1 (2550x1440)";
+
+/* Class = "NSTextFieldCell"; title = "Requires macOS 10.12.2 or later"; ObjectID = "Abv-nI-CKe"; */
+"Abv-nI-CKe.title" = "Requires macOS 10.12.2 or later";
+
+/* Class = "NSButtonCell"; title = "Advanced Settings"; ObjectID = "AzC-Ux-W9g"; */
+"AzC-Ux-W9g.title" = "고급 설정";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Bcb-hh-8NA"; */
+"Bcb-hh-8NA.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "60 FPS"; ObjectID = "Bjo-QH-70c"; */
+"Bjo-QH-70c.title" = "60 FPS";
+
+/* Class = "NSMenuItem"; title = "Display 1 (2550 x 1440)"; ObjectID = "CgI-Hd-hMf"; */
+"CgI-Hd-hMf.title" = "Display 1 (2550 x 1440)";
+
+/* Class = "NSMenuItem"; title = "Mirror Display 1 (2550x1280)"; ObjectID = "Esr-cr-6Zc"; */
+"Esr-cr-6Zc.title" = "Mirror Display 1 (2550x1280)";
+
+/* Class = "NSMenu"; title = "Reduced Transparency"; ObjectID = "GsX-Ks-6bY"; */
+"GsX-Ks-6bY.title" = "투명도 감소됨";
+
+/* Class = "NSTextFieldCell"; title = "Larger text"; ObjectID = "Gud-G9-Nkf"; */
+"Gud-G9-Nkf.title" = "큰 글자 크기";
+
+/* Class = "NSMenuItem"; title = "Reduced Transparency"; ObjectID = "HKI-J1-NX9"; */
+"HKI-J1-NX9.title" = "투명도 감소됨";
+
+/* Class = "NSTextFieldCell"; title = "Retina"; ObjectID = "ISr-pZ-Eip"; */
+"ISr-pZ-Eip.title" = "Retina";
+
+/* Class = "NSButtonCell"; title = "Use when available"; ObjectID = "Im4-go-qmc"; */
+"Im4-go-qmc.title" = "이용 가능할 때 사용";
+
+/* Class = "NSButtonCell"; title = "Pixel Perfect"; ObjectID = "KKs-di-4SY"; */
+"KKs-di-4SY.title" = "Pixel Perfect";
+
+/* Class = "NSButtonCell"; title = "Click to connect wirelessly"; ObjectID = "MVe-6I-1Ry"; */
+"MVe-6I-1Ry.title" = "Click to connect wirelessly";
+
+/* Class = "NSTextFieldCell"; title = "Framerate"; ObjectID = "OVx-aY-mtu"; */
+"OVx-aY-mtu.title" = "Framerate";
+
+/* Class = "NSMenuItem"; title = "1024x768 (Larger Text)"; ObjectID = "Oa9-lj-k6x"; */
+"Oa9-lj-k6x.title" = "1024x768 (Larger Text)";
+
+/* Class = "NSTextFieldCell"; title = "Trusted Devices"; ObjectID = "Ojv-zb-Ww5"; */
+"Ojv-zb-Ww5.title" = "Trusted Devices";
+
+/* Class = "NSButtonCell"; title = "Enable Duet Air"; ObjectID = "PYL-Ev-1b7"; */
+"PYL-Ev-1b7.title" = "Enable Duet Air";
+
+/* Class = "NSTextFieldCell"; title = "Resolution"; ObjectID = "PfG-HK-Q0d"; */
+"PfG-HK-Q0d.title" = "Resolution";
+
+/* Class = "NSTextFieldCell"; title = "Resolution"; ObjectID = "Qv4-ja-cGw"; */
+"Qv4-ja-cGw.title" = "Resolution";
+
+/* Class = "NSMenuItem"; title = "Extend Display"; ObjectID = "SQr-ZF-lgv"; */
+"SQr-ZF-lgv.title" = "Extend Display";
+
+/* Class = "NSTextFieldCell"; title = "Connecting..."; ObjectID = "Srj-Nq-Hy5"; */
+"Srj-Nq-Hy5.title" = "Connecting...";
+
+/* Class = "NSTextFieldCell"; title = "Check this box if you want to connect this device on Wi-Fi automatically. "; ObjectID = "TfD-wu-FVZ"; */
+"TfD-wu-FVZ.title" = "Check this box if you want to connect this device on Wi-Fi automatically. ";
+
+/* Class = "NSTextFieldCell"; title = "Connected for 1 minute"; ObjectID = "TmO-qi-b7N"; */
+"TmO-qi-b7N.title" = "Connected for 1 minute";
+
+/* Class = "NSTextFieldCell"; title = "Check this box if you want your Mac to be able to connect wirelessly."; ObjectID = "TxF-1y-tfp"; */
+"TxF-1y-tfp.title" = "Check this box if you want your Mac to be able to connect wirelessly.";
+
+/* Class = "NSButtonCell"; title = "Mirror Display"; ObjectID = "Uov-fG-sS8"; */
+"Uov-fG-sS8.title" = "미러 디스플레이 ";
+
+/* Class = "NSMenuItem"; title = "After Duet Disconnects..."; ObjectID = "Vaf-S5-C6g"; */
+"Vaf-S5-C6g.title" = "Duet 연결 해제 후...";
+
+/* Class = "NSTextFieldCell"; title = "iPad Pro"; ObjectID = "ViE-oY-9ty"; */
+"ViE-oY-9ty.title" = "iPad Pro";
+
+/* Class = "NSMenuItem"; title = "Reduce Transparency (Energy Efficient)"; ObjectID = "WJ9-SP-n0W"; */
+"WJ9-SP-n0W.title" = "투명도 감소 (전원 절약)";
+
+/* Class = "NSButtonCell"; title = "Disconnect From Wi-Fi"; ObjectID = "WtX-UQ-aNo"; */
+"WtX-UQ-aNo.title" = "Disconnect From Wi-Fi";
+
+/* Class = "NSButtonCell"; title = "Auto-Connect to this device"; ObjectID = "XQX-6q-zn8"; */
+"XQX-6q-zn8.title" = "Auto-Connect to this device";
+
+/* Class = "NSTextFieldCell"; title = "These devices can auto-connect wirelessly without permission."; ObjectID = "Z6d-OJ-dCY"; */
+"Z6d-OJ-dCY.title" = "These devices can auto-connect wirelessly without permission.";
+
+/* Class = "NSTabViewItem"; label = "Air"; ObjectID = "afN-Ja-EXE"; */
+"afN-Ja-EXE.label" = "Air";
+
+/* Class = "NSTextFieldCell"; title = "More space"; ObjectID = "b3P-K0-r92"; */
+"b3P-K0-r92.title" = "많은 공간";
+
+/* Class = "NSButtonCell"; title = "Regular"; ObjectID = "by3-wP-5g1"; */
+"by3-wP-5g1.title" = "일반";
+
+/* Class = "NSButtonCell"; title = "Remove Device"; ObjectID = "c3d-VZ-1QD"; */
+"c3d-VZ-1QD.title" = "Remove Device";
+
+/* Class = "NSButtonCell"; title = "30 FPS"; ObjectID = "eM8-Mc-Pvf"; */
+"eM8-Mc-Pvf.title" = "30 FPS";
+
+/* Class = "NSTextFieldCell"; title = "If you connect using the lightning cable, it will switch."; ObjectID = "fBh-5i-HLv"; */
+"fBh-5i-HLv.title" = "If you connect using the lightning cable, it will switch.";
+
+/* Class = "NSMenuItem"; title = "Remind Me When iPad Is Connected"; ObjectID = "fWQ-x7-pif"; */
+"fWQ-x7-pif.title" = "모바일 장치가 연결되면 알림";
+
+/* Class = "NSWindow"; title = "Duet Settings"; ObjectID = "iNL-l5-XxB"; */
+"iNL-l5-XxB.title" = "Duet Settings";
+
+/* Class = "NSButtonCell"; title = "X"; ObjectID = "jJ9-D1-YSl"; */
+"jJ9-D1-YSl.title" = "X";
+
+/* Class = "NSMenuItem"; title = "Mirror Display 2 (2550x1280)"; ObjectID = "kUZ-wa-MHT"; */
+"kUZ-wa-MHT.title" = "Mirror Display 2 (2550x1280)";
+
+/* Class = "NSMenuItem"; title = "Mirror"; ObjectID = "myv-n9-9nt"; */
+"myv-n9-9nt.title" = "Mirror";
+
+/* Class = "NSTextFieldCell"; title = "Duet iPad"; ObjectID = "nJ7-6x-W77"; */
+"nJ7-6x-W77.title" = "Duet iPad";
+
+/* Class = "NSTableColumn"; headerCell.title = "Duet Air - Devices Nearby"; ObjectID = "nt6-Ml-AFQ"; */
+"nt6-Ml-AFQ.headerCell.title" = "Duet Air - Devices Nearby";
+
+/* Class = "NSTextFieldCell"; title = "Choose which display to mirror below. "; ObjectID = "pNI-UX-HlT"; */
+"pNI-UX-HlT.title" = "미러링 할 디스플레이 선택";
+
+/* Class = "NSMenuItem"; title = "Extend"; ObjectID = "rA5-4F-Z5T"; */
+"rA5-4F-Z5T.title" = "Extend";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rd3-AB-4gr"; */
+"rd3-AB-4gr.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "iPad Touch Bar"; ObjectID = "sQR-tL-LzJ"; */
+"sQR-tL-LzJ.title" = "iPad Touch Bar";
+
+/* Class = "NSTextFieldCell"; title = "Please connect iOS Device to view or change settings."; ObjectID = "tXW-1m-oed"; */
+"tXW-1m-oed.title" = "설정을 보거나 변경하려면 모바일 장치를 연결하십시오";
+
+/* Class = "NSMenuItem"; title = "Enable Transparency (Higher Performance)"; ObjectID = "wrp-Zg-tCQ"; */
+"wrp-Zg-tCQ.title" = "투명도 활성화 (고성능)";

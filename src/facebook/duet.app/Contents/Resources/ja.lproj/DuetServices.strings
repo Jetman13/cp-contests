@@ -1,0 +1,117 @@
+/* Class = "NSTextFieldCell"; placeholderString = "Confirm Password"; ObjectID = "0qA-cW-YaH"; */
+"0qA-cW-YaH.placeholderString" = "パスワードを確認する";
+
+/* Class = "NSTextFieldCell"; title = "Server Port"; ObjectID = "2Jh-Hd-C4d"; */
+"2Jh-Hd-C4d.title" = "サーバーポート";
+
+/* Class = "NSTextFieldCell"; title = "Screen Sharing Enabled"; ObjectID = "4kU-aA-D8i"; */
+"4kU-aA-D8i.title" = "画面共有が有効です";
+
+/* Class = "NSButtonCell"; title = "Send an email when a host authenticates a connection"; ObjectID = "7ET-3G-MN3"; */
+"7ET-3G-MN3.title" = "ホストが接続を承認した時にEmailを受け取る。";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "7w7-2t-Rqt"; */
+"7w7-2t-Rqt.title" = "スタート";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Auto"; ObjectID = "8e8-9E-AQJ"; */
+"8e8-9E-AQJ.placeholderString" = "自動";
+
+/* Class = "NSButtonCell"; title = "Manage your account for %@ further here."; ObjectID = "9uh-I3-n1M"; */
+"9uh-I3-n1M.title" = "%@アカウントの詳細管理";
+
+/* Class = "NSBox"; title = "Advanced Security Options"; ObjectID = "Al5-gb-hXU"; */
+"Al5-gb-hXU.title" = "より高度なセキュリティオプション";
+
+/* Class = "NSTextFieldCell"; title = "YOUR PROFILE"; ObjectID = "Cn9-Dv-psn"; */
+"Cn9-Dv-psn.title" = "プロフィール";
+
+/* Class = "NSButtonCell"; title = "AGREE & CONTINUE"; ObjectID = "G2N-Z4-dxp"; */
+"G2N-Z4-dxp.title" = "同意して続行する";
+
+/* Class = "NSTextFieldCell"; title = "Duet is logging your account back in and should be ready in a minute."; ObjectID = "giA-pR-X6F"; */
+"giA-pR-X6F.title" = "Duetはご登録のアカウントに再度ログインしています。まもなく準備が完了します。";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "gQh-YF-RBf"; */
+"gQh-YF-RBf.title" = "戻る";
+
+/* Class = "NSTextFieldCell"; title = "Duet Services: Error"; ObjectID = "hlX-Ng-X1j"; */
+"hlX-Ng-X1j.title" = "Duetサービス:エラー";
+
+/* Class = "NSTextFieldCell"; title = "Duet Services EULA"; ObjectID = "HO8-QJ-5Vj"; */
+"HO8-QJ-5Vj.title" = "Duetのサービス利用許諾契約";
+
+/* Class = "NSTextFieldCell"; title = "Duet Services"; ObjectID = "Hx3-Ml-pDU"; */
+"Hx3-Ml-pDU.title" = "Duetサービス";
+
+/* Class = "NSButtonCell"; title = "Forgot password?"; ObjectID = "I27-gz-zOG"; */
+"I27-gz-zOG.title" = "パスワードをお忘れですか？";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "iNH-UM-ddm"; */
+"iNH-UM-ddm.title" = "ラベル";
+
+/* Class = "NSButtonCell"; title = "CONTINUE"; ObjectID = "kGx-ro-Zqq"; */
+"kGx-ro-Zqq.title" = "続ける";
+
+/* Class = "NSTextFieldCell"; title = "Setup"; ObjectID = "lB4-Me-XUa"; */
+"lB4-Me-XUa.title" = "セットアップ";
+
+/* Class = "NSButtonCell"; title = "Send an email when a new device logs in"; ObjectID = "lEF-2K-Nzh"; */
+"lEF-2K-Nzh.title" = "新しいデバイスがログインした時にEmailを受け取る";
+
+/* Class = "NSButtonCell"; title = "I agree to the license terms and conditions"; ObjectID = "leY-fV-g1i"; */
+"leY-fV-g1i.title" = "\nライセンス条項と契約に同意します";
+
+/* Class = "NSButtonCell"; title = "Sign In"; ObjectID = "LjF-p0-5Kl"; */
+"LjF-p0-5Kl.title" = "サインイン";
+
+/* Class = "NSTextFieldCell"; title = "Duet Services"; ObjectID = "S4I-CJ-Ug4"; */
+"S4I-CJ-Ug4.title" = "Duetサービス";
+
+/* Class = "NSButtonCell"; title = "Sign Up"; ObjectID = "SdO-oy-pNE"; */
+"SdO-oy-pNE.title" = "サインアップ";
+
+/* Class = "NSTextFieldCell"; title = "Sandbox"; ObjectID = "svX-eJ-pBF"; */
+"svX-eJ-pBF.title" = "サンドボックス";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Password"; ObjectID = "thU-1G-Yuw"; */
+"thU-1G-Yuw.placeholderString" = "パスワード";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "U8r-4k-jKb"; */
+"U8r-4k-jKb.title" = "レーベル";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Email"; ObjectID = "ugj-HO-VWc"; */
+"ugj-HO-VWc.placeholderString" = "Email";
+
+/* Class = "NSTextFieldCell"; title = "Duet Services"; ObjectID = "vgp-4y-EiB"; */
+"vgp-4y-EiB.title" = "Duetサービス";
+
+/* Class = "NSWindow"; title = "Duet Services: Error"; ObjectID = "VU9-Xs-pwr"; */
+"VU9-Xs-pwr.title" = "Duetサービス: エラー";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "Wyy-tP-UCr"; */
+"Wyy-tP-UCr.title" = "OK";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Email"; ObjectID = "xfT-87-U8M"; */
+"xfT-87-U8M.placeholderString" = "Email";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "XQh-T5-XO6"; */
+"XQh-T5-XO6.title" = "戻る";
+
+/* Class = "NSButtonCell"; title = "SIGN IN"; ObjectID = "xyE-jg-wXe"; */
+"xyE-jg-wXe.title" = "サインイン";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Password"; ObjectID = "YLG-Tl-T03"; */
+"YLG-Tl-T03.placeholderString" = "パスワード";
+
+/* Class = "NSTextFieldCell"; title = "A email has been sent to your provided address.  Please click the link that was sent."; ObjectID = "Yss-as-Isw"; */
+"Yss-as-Isw.title" = "入力したアドレスにEmailが送信されました。記載されているリンクをクリックしてください。";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "Yws-du-Dbw"; */
+"Yws-du-Dbw.title" = "サインアウト";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Z95-R4-Mu5"; */
+"Z95-R4-Mu5.title" = "ボックス";
+
+/* Class = "NSButtonCell"; title = "Send an email when a host receives a connection"; ObjectID = "zrF-6m-Fkc"; */
+"zrF-6m-Fkc.title" = "ホストが接続を検知した時にEmailを受け取る";
+

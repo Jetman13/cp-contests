@@ -1,0 +1,44 @@
+{
+  "name" : "C - Cheese",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "3 5\n3 1\n4 2\n2 3\n",
+    "output" : "15\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "4 100\n6 2\n1 5\n3 9\n8 7\n",
+    "output" : "100\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "10 3141\n314944731 649\n140276783 228\n578012421 809\n878510647 519\n925326537 943\n337666726 611\n879137070 306\n87808915 39\n756059990 244\n228622672 291\n",
+    "output" : "2357689932073\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Main",
+  "taskClass" : "atcoder.CCheese",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.11.27",
+  "contestName" : "AtCoder - NEC Programming Contest 2021(AtCoder Beginner Contest 229)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

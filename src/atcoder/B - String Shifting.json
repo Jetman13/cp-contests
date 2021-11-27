@@ -1,0 +1,44 @@
+{
+  "name" : "B - String Shifting",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "aaba\n",
+    "output" : "aaab\nbaaa\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "z\n",
+    "output" : "z\nz\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "abracadabra\n",
+    "output" : "aabracadabr\nracadabraab\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Main",
+  "taskClass" : "atcoder.BStringShifting",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.10.17",
+  "contestName" : "AtCoder - AtCoder Beginner Contest 223",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

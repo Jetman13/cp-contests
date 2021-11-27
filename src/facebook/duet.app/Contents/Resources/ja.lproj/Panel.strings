@@ -1,0 +1,207 @@
+/* Class = "NSButtonCell"; title = "Switch To Wired Automatically"; ObjectID = "1Gr-bK-hkW"; */
+"1Gr-bK-hkW.title" = "自動的に有線接続に移行します";
+
+/* Class = "NSButtonCell"; title = "Help Desk"; ObjectID = "1kD-g5-LVU"; */
+"1kD-g5-LVU.title" = "ヘルプデスク";
+
+/* Class = "NSTextFieldCell"; title = "CONNECT"; ObjectID = "2HA-9Y-6O2"; */
+"2HA-9Y-6O2.title" = "接続";
+
+/* Class = "NSTextFieldCell"; title = "v2.0.0"; ObjectID = "2Yl-ks-yYe"; */
+"2Yl-ks-yYe.title" = "v2.0.0";
+
+/* Class = "NSButtonCell"; title = "Auto Update App"; ObjectID = "3Cz-08-GhI"; */
+"3Cz-08-GhI.title" = "アプリを自動アップデートする";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5Io-sf-ABu"; */
+"5Io-sf-ABu.title" = "テキストセル";
+
+/* Class = "NSTextFieldCell"; title = "Check this box if you want your Mac to be able to connect wirelessly."; ObjectID = "5UJ-TX-Jdy"; */
+"5UJ-TX-Jdy.title" = "Macをワイヤレス接続するためには、こちらのボックスにチェックを入れてください。";
+
+/* Class = "NSButtonCell"; title = "High"; ObjectID = "7hC-Wj-9Pc"; */
+"7hC-Wj-9Pc.title" = "高画質";
+
+/* Class = "NSTableColumn"; headerCell.title = "Duet Air - Devices Nearby"; ObjectID = "7nY-6c-3dC"; */
+"7nY-6c-3dC.headerCell.title" = "Duet Air ー 近くのデバイスに";
+
+/* Class = "NSTextFieldCell"; title = "Looks like 1366 x 1024"; ObjectID = "8e7-FX-ecQ"; */
+"8e7-FX-ecQ.title" = "解像度 1366 x 1024";
+
+/* Class = "NSTabViewItem"; label = "Display"; ObjectID = "8xi-7d-ptO"; */
+"8xi-7d-ptO.label" = "ディスプレイ";
+
+/* Class = "NSButtonCell"; title = "Sign In For Remote Desktop"; ObjectID = "12T-cA-xTN"; */
+"12T-cA-xTN.title" = "Remote Desktopにサインインする";
+
+/* Class = "NSTextFieldCell"; title = "Quality"; ObjectID = "88d-SF-0Kd"; */
+"88d-SF-0Kd.title" = "クオリティ";
+
+/* Class = "NSTextFieldCell"; title = "OTHER"; ObjectID = "aaQ-F0-lrB"; */
+"aaQ-F0-lrB.title" = "その他";
+
+/* Class = "NSButtonCell"; title = "Disconnect"; ObjectID = "AE3-gc-gu6"; */
+"AE3-gc-gu6.title" = "接続解除";
+
+/* Class = "NSTabViewItem"; label = "Air"; ObjectID = "afN-Ja-EXE"; */
+"afN-Ja-EXE.label" = "Air";
+
+/* Class = "NSMenuItem"; title = "Mirror Display 1 (2550x1440)"; ObjectID = "AZo-zK-gH3"; */
+"AZo-zK-gH3.title" = "Mirror Display 1 (2550x1440)";
+
+/* Class = "NSTextFieldCell"; title = "More space"; ObjectID = "b3P-K0-r92"; */
+"b3P-K0-r92.title" = "スペースを拡大";
+
+/* Class = "NSTextFieldCell"; title = "We recommend enabling this setting in case duet has critical updates."; ObjectID = "bJL-gA-yD1"; */
+"bJL-gA-yD1.title" = "Duetの重要なアップデートを受け取るために、こちらの設定を有効にしておく事をお勧めします。";
+
+/* Class = "NSButtonCell"; title = "60 FPS"; ObjectID = "Bjo-QH-70c"; */
+"Bjo-QH-70c.title" = "60 FPS";
+
+/* Class = "NSButtonCell"; title = "Click to connect wirelessly"; ObjectID = "Br8-aS-PcU"; */
+"Br8-aS-PcU.title" = "クリックしてワイヤレス接続";
+
+/* Class = "NSButtonCell"; title = "Uninstall App"; ObjectID = "BrL-sx-IVS"; */
+"BrL-sx-IVS.title" = "アプリをアンインストール";
+
+/* Class = "NSButtonCell"; title = "Regular"; ObjectID = "by3-wP-5g1"; */
+"by3-wP-5g1.title" = "  通常";
+
+/* Class = "NSTextFieldCell"; title = "Sign in to Duet Air to get better and more secure discoverability for wireless connections through your account as well as the option to enable remote access for your Mac."; ObjectID = "CuI-U5-FdT"; */
+"CuI-U5-FdT.title" = "Duet Airにサインインして、アカウントを介したワイヤレス接続の検出性とセキュリティを向上させ、Macへのアクセスを有効にするオプションを取得します";
+
+/* Class = "NSButtonCell"; title = "Enable Duet Air"; ObjectID = "CzZ-SX-XAZ"; */
+"CzZ-SX-XAZ.title" = "Duet Airを有効にする";
+
+/* Class = "NSButtonCell"; title = "Open app at login"; ObjectID = "dgm-6O-4Zq"; */
+"dgm-6O-4Zq.title" = "ログイン時にアプリを起動する";
+
+/* Class = "NSTextFieldCell"; title = "Uninstall App"; ObjectID = "DTX-wi-s0T"; */
+"DTX-wi-s0T.title" = "アプリをアンインストールする";
+
+/* Class = "NSButtonCell"; title = "30 FPS"; ObjectID = "eM8-Mc-Pvf"; */
+"eM8-Mc-Pvf.title" = "30 FPS";
+
+/* Class = "NSButtonCell"; title = "Wired"; ObjectID = "f99-MU-uuR"; */
+"f99-MU-uuR.title" = "ケーブル";
+
+/* Class = "NSTextFieldCell"; title = "If you connect using the lightning cable, it will switch."; ObjectID = "fBh-5i-HLv"; */
+"fBh-5i-HLv.title" = "ライトニングケーブルで接続している場合、スイッチします。";
+
+/* Class = "NSTextFieldCell"; title = "Discovered Devices"; ObjectID = "FiA-Eq-Zst"; */
+"FiA-Eq-Zst.title" = "検知されたデバイス";
+
+/* Class = "NSTextFieldCell"; title = "SETTINGS"; ObjectID = "FQe-qf-aCv"; */
+"FQe-qf-aCv.title" = "設定";
+
+/* Class = "NSTextFieldCell"; title = "iPad Touch Bar"; ObjectID = "g58-Xw-C5S"; */
+"g58-Xw-C5S.title" = "iPad Touch Bar";
+
+/* Class = "NSButtonCell"; title = "Air"; ObjectID = "Gp3-Uu-iWj"; */
+"Gp3-Uu-iWj.title" = "Air";
+
+/* Class = "NSTextFieldCell"; title = "Larger text"; ObjectID = "Gud-G9-Nkf"; */
+"Gud-G9-Nkf.title" = "文字を拡大";
+
+/* Class = "NSButtonCell"; title = "Use when available"; ObjectID = "Im4-go-qmc"; */
+"Im4-go-qmc.title" = "可能であれば適用する";
+
+/* Class = "NSWindow"; title = "Duet Settings"; ObjectID = "iNL-l5-XxB"; */
+"iNL-l5-XxB.title" = "Duetの設定";
+
+/* Class = "NSButtonCell"; title = "Settings"; ObjectID = "iOA-yF-tfa"; */
+"iOA-yF-tfa.title" = "設定";
+
+/* Class = "NSTextFieldCell"; title = "Retina"; ObjectID = "ISr-pZ-Eip"; */
+"ISr-pZ-Eip.title" = "Retina";
+
+/* Class = "NSSegmentedCell"; Izx-QH-x3E.ibShadowedLabels[0] = "Enabled"; ObjectID = "Izx-QH-x3E"; */
+"Izx-QH-x3E.ibShadowedLabels[0]" = "有効";
+
+/* Class = "NSSegmentedCell"; Izx-QH-x3E.ibShadowedLabels[1] = "Disabled"; ObjectID = "Izx-QH-x3E"; */
+"Izx-QH-x3E.ibShadowedLabels[1]" = "無効";
+
+/* Class = "NSButtonCell"; title = "Sign In For Remote Desktop"; ObjectID = "jHo-ZS-BsH"; */
+"jHo-ZS-BsH.title" = "Remote Desktopにサインインする";
+
+/* Class = "NSButtonCell"; title = "✕"; ObjectID = "jJ9-D1-YSl"; */
+"jJ9-D1-YSl.title" = "X";
+
+/* Class = "NSTextFieldCell"; title = "We recommend enabling this setting so that you can just plug in and get duet started. When idle, Duet uses fewer resources than a single tab of Safari."; ObjectID = "JUh-09-FYA"; */
+"JUh-09-FYA.title" = "ケーブルを接続してすぐにDuetをお使いになれるよう、こちらの設定を有効にしておく事をお勧めします。 待機中には、Safariのタブひとつ分よりも少ないCPU使用量で待機します。";
+
+/* Class = "NSTextFieldCell"; title = "Click below to fully uninstall the duet app from your system."; ObjectID = "k2A-9o-c5C"; */
+"k2A-9o-c5C.title" = "以下のボタンをクリックしてDuetを完全にアンインストールする";
+
+/* Class = "NSButtonCell"; title = "Adjust Display Settings"; ObjectID = "kj7-wG-uS8"; */
+"kj7-wG-uS8.title" = "Display設定を調整する";
+
+/* Class = "NSButtonCell"; title = "Pixel Perfect"; ObjectID = "KKs-di-4SY"; */
+"KKs-di-4SY.title" = "Pixel Perfect";
+
+/* Class = "NSButtonCell"; title = "Profile"; ObjectID = "KN1-k7-wMQ"; */
+"KN1-k7-wMQ.title" = "プロフィール";
+
+/* Class = "NSTextFieldCell"; title = "Framerate"; ObjectID = "OVx-aY-mtu"; */
+"OVx-aY-mtu.title" = "フレームレート";
+
+/* Class = "NSTextFieldCell"; title = "Resolution"; ObjectID = "PfG-HK-Q0d"; */
+"PfG-HK-Q0d.title" = "解像度";
+
+/* Class = "NSTextFieldCell"; title = "Choose which display to mirror below. "; ObjectID = "pNI-UX-HlT"; */
+"pNI-UX-HlT.title" = "複製する画面を以下のリストから選んでください。";
+
+/* Class = "NSButtonCell"; title = "Connect to IP Manually"; ObjectID = "PuV-xW-c2N"; */
+"PuV-xW-c2N.title" = "IPに手動で接続する";
+
+/* Class = "NSTextFieldCell"; title = "There are no wireless devices on the same network. Please make sure they are both connected to Wi-Fi and the network does not block discovery. E-mail air@duetdisplay.com if you have any issues."; ObjectID = "QhW-di-i1w"; */
+"QhW-di-i1w.title" = "同じネットワーク上にワイヤレスデバイスはありません。 それらがWi-Fiに接続されており、ネットワークが検出をブロックしていない事をご確認ください。 問題がある場合は、air@duetdisplay.comまでお問い合わせください。";
+
+/* Class = "NSButtonCell"; title = "Settings"; ObjectID = "r0F-y1-pi0"; */
+"r0F-y1-pi0.title" = "設定";
+
+/* Class = "NSTextFieldCell"; title = "Hint: If you can't see your device, sign in with your Duet account on that device and connect from there."; ObjectID = "Rmp-lX-5fT"; */
+"Rmp-lX-5fT.title" = "ヒント：デバイスが表示されない場合は、そのデバイスのDuetアカウントでサインインし、そこから接続してください。";
+
+/* Class = "NSButtonCell"; title = "Android"; ObjectID = "rZH-70-ihh"; */
+"rZH-70-ihh.title" = "Android";
+
+/* Class = "NSButtonCell"; title = "Desktop"; ObjectID = "Sds-Tb-0n7"; */
+"Sds-Tb-0n7.title" = "デスクトップ";
+
+/* Class = "NSButtonCell"; title = "E-Mail Us"; ObjectID = "tbC-j6-Vbl"; */
+"tbC-j6-Vbl.title" = "E-Mailで問い合わせる";
+
+/* Class = "NSTextFieldCell"; title = "Check this box if you want to connect this device on Wi-Fi automatically. "; ObjectID = "TfD-wu-FVZ"; */
+"TfD-wu-FVZ.title" = "自動でこのデバイスをWi-Fi接続するためにはこちらにチェックしてください。";
+
+/* Class = "NSTextFieldCell"; title = "Please connect your mobile device to view or change settings"; ObjectID = "tXW-1m-oed"; */
+"tXW-1m-oed.title" = "設定を表示または変更するには、モバイルデバイスを接続してください";
+
+/* Class = "NSButtonCell"; title = "Mirror Display"; ObjectID = "Uov-fG-sS8"; */
+"Uov-fG-sS8.title" = "画面を複製する";
+
+/* Class = "NSTextFieldCell"; title = "SETTINGS"; ObjectID = "UU8-36-SfQ"; */
+"UU8-36-SfQ.title" = "設定";
+
+/* Class = "NSButtonCell"; title = "iOS"; ObjectID = "vtM-of-wvb"; */
+"vtM-of-wvb.title" = "iOS";
+
+/* Class = "NSButtonCell"; title = "Check For Updates Now"; ObjectID = "vx9-gO-y4N"; */
+"vx9-gO-y4N.title" = "アップデートを確認する。";
+
+/* Class = "NSTextFieldCell"; title = "iPad Pro"; ObjectID = "WDR-HS-S5a"; */
+"WDR-HS-S5a.title" = "iPad Pro";
+
+/* Class = "NSTextFieldCell"; title = "Have a Chromebook? These devices only support wireless connections - please switch to the Air Tab for instructions."; ObjectID = "wNl-3f-6tT"; */
+"wNl-3f-6tT.title" = "Chromebookをお使いですか？それらのデバイスにおいては現在ワイヤレス接続のみをサポートしております。”Air”のタブに切り替えて手順をご確認ください。";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Tab Container View"; ObjectID = "Xdq-Gd-5rd"; */
+"Xdq-Gd-5rd.ibExternalAccessibilityDescription" = "タブコンテナビュー";
+
+/* Class = "NSButtonCell"; title = "Quit App"; ObjectID = "xgn-4X-rlM"; */
+"xgn-4X-rlM.title" = "アプリを終了する。";
+
+/* Class = "NSButtonCell"; title = "Auto-Connect to this device"; ObjectID = "XQX-6q-zn8"; */
+"XQX-6q-zn8.title" = "このデバイスを自動で接続";
+

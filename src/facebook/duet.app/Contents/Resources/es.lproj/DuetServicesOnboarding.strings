@@ -1,0 +1,39 @@
+/* Class = "NSTextFieldCell"; title = "Duet Services"; ObjectID = "9ld-Mv-Puu"; */
+"9ld-Mv-Puu.title" = "Servicios de Duet";
+
+/* Class = "NSButtonCell"; title = "Privacy Policy"; ObjectID = "DlI-Lj-Ydi"; */
+"DlI-Lj-Ydi.title" = "Política de Privacidad";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Email"; ObjectID = "G9i-aq-AMa"; */
+"G9i-aq-AMa.placeholderString" = "Correo electrónico";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "h43-Du-ZJn"; */
+"h43-Du-ZJn.title" = "Desconectar";
+
+/* Class = "NSTextFieldCell"; title = "Duet Services"; ObjectID = "JlA-yW-z9I"; */
+"JlA-yW-z9I.title" = "Servicios de Duet";
+
+/* Class = "NSTextFieldCell"; title = "Please verify your email address before continuing."; ObjectID = "k7x-hs-eU4"; */
+"k7x-hs-eU4.title" = "Por favor, verifica tu correo electrónico antes de continuar.";
+
+/* Class = "NSTextFieldCell"; title = "Duet Services"; ObjectID = "KAF-Um-wMO"; */
+"KAF-Um-wMO.title" = "Servicios de Duet";
+
+/* Class = "NSButtonCell"; title = "Sign In"; ObjectID = "KNr-m3-ddn"; */
+"KNr-m3-ddn.title" = "Iniciar Sesión";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Password"; ObjectID = "QIU-7K-44r"; */
+"QIU-7K-44r.placeholderString" = "Contraseña";
+
+/* Class = "NSButtonCell"; title = "Create New Account"; ObjectID = "QtF-rw-PPZ"; */
+"QtF-rw-PPZ.title" = "Crea Una Cuenta Nueva";
+
+/* Class = "NSWindow"; title = "Sign-In"; ObjectID = "xUm-7W-Mkm"; */
+"xUm-7W-Mkm.title" = "Iniciar Sesión ";
+
+/* Class = "NSButtonCell"; title = "Screen Sharing Enabled"; ObjectID = "yk3-9R-xPR"; */
+"yk3-9R-xPR.title" = "Compartir Pantalla Habilitado";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "zj9-hL-Skf"; */
+"zj9-hL-Skf.title" = "Continuar";
+

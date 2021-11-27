@@ -1,0 +1,45 @@
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "0o4-WV-z81"; */
+"0o4-WV-z81.title" = "テーブルビューセル";
+
+/* Class = "NSButtonCell"; title = "Extend From"; ObjectID = "8fZ-7b-1KS"; */
+"8fZ-7b-1KS.title" = "画面を拡張する";
+
+/* Class = "NSTextFieldCell"; title = "There are no desktops sharing screens on your account.  Please enable Duet Screen Sharing on your remote system."; ObjectID = "dKp-6Z-seY"; */
+"dKp-6Z-seY.title" = "アカウント上に画面共有されたデスクトップがありません。リモート設定からDuetの画面共有を有効化してください。";
+
+/* Class = "NSTextFieldCell"; title = "Features Include:"; ObjectID = "DXm-uO-uLi"; */
+"DXm-uO-uLi.title" = "以下の機能が含まれます:";
+
+/* Class = "NSButtonCell"; title = "Mirror"; ObjectID = "eEe-BA-6qM"; */
+"eEe-BA-6qM.title" = "画面複製";
+
+/* Class = "NSTextFieldCell"; title = "iPad as a wireless display\nRemote desktop\nPixel perfect rendering\nMonthly updates & upgrades\nPriority support"; ObjectID = "gSY-wo-lV2"; */
+"gSY-wo-lV2.title" = "ワイヤレスディスプレイとしてのiPad リモートデスクトップ Pixel Perfectレンダリング 毎月の更新とアップグレード 優先サポート ";
+
+/* Class = "NSTextFieldCell"; title = "You are connected to a display on this system."; ObjectID = "hGZ-y4-Lqy"; */
+"hGZ-y4-Lqy.title" = "以下のシステムの画面に接続しています。";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hUs-uK-HPl"; */
+"hUs-uK-HPl.title" = "テキストセル";
+
+/* Class = "NSButtonCell"; title = "Air"; ObjectID = "JFd-4b-IrU"; */
+"JFd-4b-IrU.title" = "Air";
+
+/* Class = "NSButtonCell"; title = "Disconnect"; ObjectID = "KOO-4E-jwn"; */
+"KOO-4E-jwn.title" = "接続解除";
+
+/* Class = "NSTextFieldCell"; title = "Start 1 week trial"; ObjectID = "l2I-3w-TeD"; */
+"l2I-3w-TeD.title" = "1週間のトライアルを開始する";
+
+/* Class = "NSTextFieldCell"; title = "Sign in to Duet for fast and secure discovery of your devices."; ObjectID = "tXj-PX-jzz"; */
+"tXj-PX-jzz.title" = "Duetにサインインして迅速で安全にデバイスを検出する。";
+
+/* Class = "NSTextFieldCell"; title = "Connect to Desktop:"; ObjectID = "tXl-Jy-lFU"; */
+"tXl-Jy-lFU.title" = "デスクトップに接続する";
+
+/* Class = "NSTextFieldCell"; title = "Desktop connection requires Duet Air"; ObjectID = "Wh8-6n-TC6"; */
+"Wh8-6n-TC6.title" = "デスクトップの接続にはDuet Airが必要となります。";
+
+/* Class = "NSButtonCell"; title = "Sign In"; ObjectID = "Zzk-Zf-bAS"; */
+"Zzk-Zf-bAS.title" = "サインイン";
+

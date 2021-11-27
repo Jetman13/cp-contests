@@ -1,0 +1,48 @@
+{
+  "name" : "C - Final Day",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "3 1\n178 205 132\n112 220 96\n36 64 20\n",
+    "output" : "Yes\nYes\nNo\n",
+    "index" : 0,
+    "active" : false
+  }, {
+    "input" : "2 1\n300 300 300\n200 200 200\n",
+    "output" : "Yes\nYes\n",
+    "index" : 1,
+    "active" : false
+  }, {
+    "input" : "4 2\n127 235 78\n192 134 298\n28 56 42\n96 120 250\n",
+    "output" : "Yes\nYes\nNo\nYes\n",
+    "index" : 2,
+    "active" : false
+  }, {
+    "input" : "3 1\n0 0 0\n0 1 100\n0 1 100",
+    "index" : 3,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Main",
+  "taskClass" : "atcoder.CFinalDay",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.11.20",
+  "contestName" : "AtCoder - TOYOTA SYSTEMS Programming Contest 2021(AtCoder Beginner Contest 228)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

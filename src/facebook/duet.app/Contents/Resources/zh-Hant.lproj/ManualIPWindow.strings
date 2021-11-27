@@ -1,0 +1,9 @@
+/* Class = "NSButtonCell"; title = "CONNECT"; ObjectID = "Gm8-ZY-6e1"; */
+"Gm8-ZY-6e1.title" = "連接";
+
+/* Class = "NSTextFieldCell"; title = "Enter an IP address below and press connect to manually connect to Duet.\n\nIf needed, you can find the IP address of the mobile device running Duet by pressing the help button (?) and it will be displayed there."; ObjectID = "jmV-Kd-hpx"; */
+"jmV-Kd-hpx.title" = "\"在下面輸入IP地址，然後按“連接”手動連接到Duet。如果需要，您可以找到運行Duet的移動設備的IP地址，只需按幫助按鈕（?）即可，IP地址即會顯示。 \"";
+
+/* Class = "NSButtonCell"; title = "CANCEL"; ObjectID = "M4q-U6-53a"; */
+"M4q-U6-53a.title" = "取消";
+

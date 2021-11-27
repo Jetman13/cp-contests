@@ -1,0 +1,44 @@
+{
+  "name" : "C - Calendar Validator",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "2 3\n1 2 3\n8 9 10\n",
+    "output" : "Yes\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "2 1\n1\n2\n",
+    "output" : "No\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "10 4\n1346 1347 1348 1349\n1353 1354 1355 1356\n1360 1361 1362 1363\n1367 1368 1369 1370\n1374 1375 1376 1377\n1381 1382 1383 1384\n1388 1389 1390 1391\n1395 1396 1397 1398\n1402 1403 1404 1405\n1409 1410 1411 1412\n",
+    "output" : "Yes\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/atcoder",
+  "vmArgs" : "-Xmx1024M",
+  "mainClass" : "Main",
+  "taskClass" : "atcoder.CCalendarValidator",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.10.30",
+  "contestName" : "AtCoder - UNICORN Programming Contest 2021(AtCoder Beginner Contest 225)",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

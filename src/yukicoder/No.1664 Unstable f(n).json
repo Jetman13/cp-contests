@@ -1,0 +1,53 @@
+{
+  "name" : "No.1664 Unstable f(n)",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "1",
+    "output" : "1\n",
+    "index" : 0,
+    "active" : false
+  }, {
+    "input" : "14156722839\n",
+    "output" : "125499\n",
+    "index" : 1,
+    "active" : false
+  }, {
+    "input" : "454275\n",
+    "output" : "2021\n",
+    "index" : 2,
+    "active" : false
+  }, {
+    "input" : "1000000000000000000",
+    "index" : 3,
+    "active" : false
+  }, {
+    "input" : "24137569",
+    "output" : "23",
+    "index" : 4,
+    "active" : true
+  } ],
+  "location" : "src/yukicoder",
+  "vmArgs" : "-Xmx512M",
+  "mainClass" : "Main",
+  "taskClass" : "yukicoder.No1664UnstableFn",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.09.03",
+  "contestName" : "yukicoder",
+  "truncate" : true,
+  "inputClass" : "tool.FastReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

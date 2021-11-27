@@ -1,0 +1,15 @@
+/* Class = "NSTextFieldCell"; title = "You will have to re-open the application to connect to your device."; ObjectID = "2Kk-L1-nPe"; */
+"2Kk-L1-nPe.title" = "デバイスに接続するためには、アプリを再起動する必要があります。";
+
+/* Class = "NSButtonCell"; title = "CANCEL"; ObjectID = "CGU-zl-vR8"; */
+"CGU-zl-vR8.title" = "中止";
+
+/* Class = "NSTextFieldCell"; title = "Are You Sure You Want To Quit?"; ObjectID = "OyW-Y8-gk7"; */
+"OyW-Y8-gk7.title" = "本当に終了してよろしいですか？";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "ウィンドウ";
+
+/* Class = "NSButtonCell"; title = "QUIT"; ObjectID = "sTh-B8-YC3"; */
+"sTh-B8-YC3.title" = "終了";
+

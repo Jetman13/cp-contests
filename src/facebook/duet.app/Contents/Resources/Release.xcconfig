@@ -1,0 +1,17 @@
+//
+//  Release.xcconfig
+//  duet
+//
+//  Created by Cedric Pansky on 8/5/19.
+//  Copyright © 2019 Duet, Inc. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "Pods/Target Support Files/Pods-duet/Pods-duet.release.xcconfig"
+
+PRODUCT_BUNDLE_ID=com.kairos.duetMac
+
+AWDLToolXPCAppCertificate=anchor apple generic and identifier "com.kairos.duetMac" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = J6L96W8A86)
+AWDLToolHostAppCertificate=anchor apple generic and identifier "com.kairos.awdltool.xpc" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = J6L96W8A86)
